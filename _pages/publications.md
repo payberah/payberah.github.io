@@ -1,16 +1,75 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<h1>Journals</h1>
+<ul>
+<li><b>An Adaptive Algorithm for Anomaly and Novelty Detection in Evolving Data Streams</b><br>
+Mohamed-Rafik Bouguelia, Slawomir Nowaczyk, Amir H Payberah, Springer Data Mining and Knowledge Discovery, 2018.</li>
+<li><b>A Distributed Algorithm For Large-Scale Graph Partitioning</b> [<a href="files/download/papers/taas.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/taas.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://dl.acm.org/citation.cfm?id=2714568" style="color:#64B2CB">link</a>]<br>
+Fatemeh Rahimian, Amir H. Payberah, Sarunas Girdzijauskas, Mark Jelasity, and Seif Haridi, ACM Transactions on Autonomous and Adaptive Systems (<a href="http://taas.acm.org/" style="color:#64B2CB">TAAS</a>), June 2015.</li>
+<li><b>Distributed Optimization of P2P Live Streaming Overlays</b> [<a href="files/download/papers/p2p_optimization.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/p2p_optimization.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://www.springerlink.com/content/r8x45k27503553x6/" style="color:#64B2CB">link</a>]<br>
+Amir H. Payberah, Jim Dowling, Fatemeh Rahimian and Seif Haridi, Springer Computing, Special Issue on Extreme Distributed Systems: From Large Scale to Complexity (<a href="http://link.springer.com/article/10.1007/s00607-012-0203-2" style="color:#64B2CB">COMPD</a>), June 2012.</li>
+</ul>
+
+<br>
+<h1>Conferences</h1>
+<ul>
+<li><b>Boosting Vertex-Cut Partitioning For Streaming Graphs</b> [<a href="files/download/papers/hovercut.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/hovercut.bib" style="color:#64B2CB">bibtex</a>] <b><font color="#EB770B">Best Paper Award</font></b><br>
+Hooman Peiro Sajjad, Amir H. Payberah, Fatemeh Rahimian, Vladimir Vlassov, and Seif Haridi, The 5th IEEE International Congress on Big Data (<a href="http://www.ieeebigdata.org/2016/" style="color:#64B2CB">BigData</a>), San Francisco, USA, June-July 2016.</li>
+<li><b>NATCloud: Cloud-Assisted NAT-Traversal Service</b> [<a href="files/download/papers/natcloud.pdf" style="color:#64B2CB">pdf</a>]<br>
+Hanna Kavalionak, Amir H. Payberah, Alberto Montresor, and Jim Dowling, The 31st ACM/SIGAPP Symposium on Applied Computing (<a href="http://www.acm.org/conferences/sac/sac2016/" style="color:#64B2CB">SAC</a>), Pisa, Italy, April 2016.</li>
+<li><b>Distributed Vertex-Cut Partitioning</b> [<a href="files/download/papers/jabeja-vc.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/jabeja-vc.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://link.springer.com/chapter/10.1007%2F978-3-662-43352-2_15" style="color:#64B2CB">link</a>]<br>
+Fatemeh Rahimian, Amir H. Payberah, Sarunas Girdzijauskas, and Seif Haridi,  The 14th IFIP International Conference on Distributed Applications and Interoperable Systems (<a href="http://www.ics.forth.gr/dais14/">DAIS</a>), Berlin, Germany, June 2014.</li>
+<li><b>Ja-Be-Ja: A Distributed Algorithm for Balanced Graph Partitioning</i></b> [<a href="files/download/papers/jabeja.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/jabeja.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6676492&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6676492" style="color:#64B2CB">link</a>] <b><font color="#EB770B">Best Paper Award</font></b><br>
+Fatemeh Rahimian, Amir H. Payberah, Sarunas Girdzijauskas, Mark Jelasity, and Seif Haridi, The 7th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (<a href="http://www.saso-conference.org" style="color:#64B2CB">SASO</a>), Philadelphia, USA, September 2013.</li>
+<li><b>Lightweight Gossip-based Distribution Estimation</b> [<a href="files/download/papers/distro.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/distro.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6655081&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6637584%2F6654691%2F06655081.pdf%3Farnumber%3D6655081" style="color:#64B2CB">link</a>]<br>
+<font color="#305272">Amir H. Payberah</font>, Hanna Kavalionak, Alberto Montresor, Jim Dowling, and Seif Haridi, The 15th IEEE International Conference on Communications (<a href="http://ieee-icc.org/">ICC</a>), Budapest, Hungary, June 2013.</li>
+<li><b>Supporting Cloud Deployment in the Guifi.net Community Network</b> [<a href="files/download/papers/guifi.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/guifi.bib" style="color:#64B2CB">bibtex</a>]<br>
+Felix Freitag, Leandro Navarro, Amin M. Khan, Roger Baig, Pau Escrich, Javi Jimenez, Ermanno Pietrosemoli, Marco Zennaro, Vladimir Vlassov, and <font color="#305272">Amir H. Payberah</font>, The 5th IEEE Global Information Infrastructure and Networking Symposium (<a href="http://www-l2ti.univ-paris13.fr/~giis2013/" style="color:#64B2CB">GIIS</a>), Trento, Italy, October 2013.</li>
+<li><b>CLive: Cloud-Assisted P2P Live Streaming</b> [<a href="files/download/papers/clive.pdf">pdf</a>] [<a href="files/download/papers/clive.bib" style="color:#64B2CB">bibtex</a>] [<a href="files/download/papers/clive_slides.pdf" style="color:#64B2CB">slides</a>] [<a href="https://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6335820&contentType=Conference+Publications&sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6335787%29" style="color:#64B2CB">link</a>]<br>
+Amir H. Payberah, Hanna Kavalionak, Vimalkumar Kumaresan, Alberto Montresor, and Seif Haridi, The 12th IEEE International Conference on Peer-to-Peer Computing (<a href="http://p2p12.org/" style="color:#64B2CB">P2P</a>), Tarragona, Spain, September 2012.</li>
+<li><b>Shuffling with a Croupier: Nat-Aware Peer-Sampling</b> [<a href="files/download/papers/croupier.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/croupier.bib" style="color:#64B2CB">bibtex</a>] [<a href="files/download/papers/croupier_slides.pdf" style="color:#64B2CB">slides</a>] [<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6257983&contentType=Conference+Publications&sortType%3Dasc_p_Sequence%26filter%3DAND%28p_IS_Number%3A6257972%29" style="color:#64B2CB">link</a>]<br>
+Jim Dowling and Amir H. Payberah, The 32nd IEEE International Conference on Distributed Computing Systems (<a href="http://icdcs-2012.org/" style="color:#64B2CB">ICDCS</a>), Macau, China, June 2012. <!-- (acceptance rate: 71/515 = 14%)--></li>
+<li><b>Subscription Awareness Meets Rendezvous Routing</b> [<a href="files/download/papers/vinifera.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/vinifera.bib" style="color:#64B2CB">bibtex</a>]<br>
+Fatemeh Rahimian, Sarunas Girdzijauskas, Amir H. Payberah and Seif Haridi, The 4th IARIA International Conference on Advances in P2P Systems (<a href="http://www.iaria.org/conferences2012/AP2PS12.html" style="color:#64B2CB">AP2PS</a>), Barcelona, Spain, September 2012.</li>
+<li><b>GLive: The Gradient Overlay As a Market Maker For Mesh-Based P2P Live Streaming</b> [<a href="files/download/papers/glive.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/glive.bib">bibtex</a>] [<a href="files/download/papers/glive_slides.pdf" style="color:#64B2CB">slides</a>] [<a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6108268" style="color:#64B2CB">link</a>]<br>
+Amir H. Payberah, Jim Dowling and Seif Haridi, The 10th IEEE International Symposium on Parallel and Distributed Computing (<a href="http://ispdc.utcluj.ro/" style="color:#64B2CB">ISPDC</a>), Cluj-Napoca, Romania, July 2011.</li>
+<li><b>Gozar: NAT-friendly Peer Sampling with One-Hop Distributed NAT Traversal</b> [<a href="files/download/papers/gozar.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/gozar.bib" style="color:#64B2CB">bibtex</a>] [<a href="files/download/papers/gozar_slides.pdf" style="color:#64B2CB">slides</a>] [<a href="http://www.springerlink.com/content/j6418877h7205q7m/" style="color:#64B2CB">link</a>]<br>
+Amir H. Payberah, Jim Dowling and Seif Haridi, The 11th IFIP International Conference on Distributed Applications and Interoperable Systems (<a href="http://discotec.ru.is/dais/main">DAIS</a>), Reykjavik, Iceland, June 2011.</li> <!-- (acceptance rate: 18/55 = 32%) -->
+<li><b>Vitis: A Gossip-based Hybrid Overlay for Internet-scale Publish/Subscribe</b> [<a href="files/download/papers/vitis.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/vitis.bib">bibtex</a>] [<a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6012885" style="color:#64B2CB">link</a>]<br>
+Fatemeh Rahimian, Sarunas Girdzijauskas, Amir H. Payberah and Seif Haridi, The 25th IEEE International Parallel & Distributed Processing Symposium (<a href="http://www.ipdps.org/">IPDPS</a>), Anchorage, Alaska, USA, May 2011. <!--(acceptance rate: 112/571 = 19%)--></li>
+<li><b>Converging an Overlay Network to a Gradient Topology</b> [<a href="files/download/papers/gradient.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/gradient.bib" style="color:#64B2CB">bibtex</a>]<br>
+Hakan Terelius, Guodong Shi, Jim Dowling, Amir H. Payberah, Ather Gattami and Karl Henrik Johansson, The 50th IEEE Conference on Decision and Control and European Control Conference (<a href="http://control.disp.uniroma2.it/cdcecc2011/" style="color:#64B2CB">CDC-ECC</a>), Orlando, Florida, USA, December 2011.</li>
+<li><b>Sepidar: Incentivized Market-Based P2P Live Streaming on the Gradient Overlay Network</b> [<a href="files/download/papers/sepidar.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/sepidar.bib" style="color:#64B2CB">bibtex</a>] [<a href="files/download/papers/sepidar_slides.pdf" style="color:#64B2CB">slides</a>] [<a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5693815" style="color:#64B2CB">link</a>]<br>
+Amir H. Payberah, Jim Dowling, Fatemeh Rahimian and Seif Haridi, The IEEE International Symposium on Multimedia (<a href="http://ism2010.asia.edu.tw/" style="color:#64B2CB">ISM</a>), Taichung, Taiwan, December 2010.</li> <!-- (acceptance rate: 32/102 = 31%) -->
+<li><b>gradienTv: Market-based P2P Live Media Streaming on the Gradient Overlay</b> [<a href="files/download/papers/gradientv.pdf" style="color:#64B2CB">pdf</a>] [<a href="files/download/papers/gradientv.bib" style="color:#64B2CB">bibtex</a>] [<a href="files/download/papers/gradientv_slides.pdf" style="color:#64B2CB">slides</a>] [<a href="http://www.springerlink.com/content/h145516158045264" style="color:#64B2CB">link</a>]<br>
+Amir H. Payberah, Jim Dowling, Fatemeh Rahimian and Seif Haridi, The 10th IFIP International Conference on Distributed Applications and Interoperable Systems (<a href="http://discotec.project.cwi.nl/index.php/DAIS:Main" style="color:#64B2CB">DAIS</a>), Amsterdam, Netherlands, June 2010.</li> <!-- (acceptance rate: 17/53 = 32%) -->
+<li><b>Auditing Intrusion Detection System with Mobile Agents</b> [<a href="files/download/papers/ids.pdf" style="color:#64B2CB">pdf</a>] (Persian)<br>
+Amir H. Payberah and Babak Sadeghian, The 10Th Annual Computer Society of Iran Computer Conference, Tehran, Iran, Feb 2005.</li>
+</ul>
+
+<br>
+<h1>Books and Book Chapters</h1>
+<ul>
+<li><b>Introduction to Big Data</b><br>
+Amir H. Payberah and Fatemeh Rahimian, In Big Data and Software Defined Networks, Taheri, J. Editor, The IET Big Data Book Series, 2017.</li>
+<li><b>Linux Device Driver Programming</b> [<a href="http://www.adinebook.com/gp/product/9649239987/ref=sr_1_1000_5/757-9012040-1304416" style="color:#64B2CB">link</a>]<br>
+Amir H. Payberah, Hamed Janzadeh and Vahid Kazempour, Ardalan Press, 2006, ISBN: 964-92399-8-7.</li>
+<li><b>Linux Process Programming and Management</b> [<a href="http://www.adinebook.com/gp/product/9649239995/ref=sr_1_1000_1/757-9012040-1304416" style="color:#64B2CB">link</a>]<br>
+Amir H. Payberah, Malihe Sarikhani and Azar Nazari, Ardalan Press, 2006, ISBN: 964-92399-9-5.</li>
+</ul>
+
+
+<br>
+<h1>Research Proposals and Grants (Contributor)</h1>
+<ul>
+<li><b>STREAMLINE: Improving Competitiveness of European Enterprises through Streamlined Analysis of Data at Rest and Data in Motion</b><br>
+Funded by H2020, ICT-16-2015 Big Data, Volume: 3.2M Euro, 2016-2018.</li>
+<li><b>BIDAF: A Big Data Analytics Framework for a Smart Society</b><br>
+Funded by KK-stiffen (KKS), Volume: 2.6M Euro, 2014-2019.</li>
+</ul>
