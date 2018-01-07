@@ -9,10 +9,12 @@ author_profile: true
 <h1>Photos</h1>
 <script type="text/javascript">
 var i = 0
-for (i = 0; i <= 10; i++)
-{
-document.write("<a href='http://payberah.github.io/files/photos/1.jpg'><img src='http://payberah.github.io/files/photos/1.jpg'/></a>");
-document.write("<br />")
+for (i = 1; i <= 58; i += 3) {
+    filename1 = "http://payberah.github.io/files/photos/" + i + ".jpg"
+    filename2 = "http://payberah.github.io/files/photos/" + (i + 1) + ".jpg"
+    filename3 = "http://payberah.github.io/files/photos/" + (i + 2)+ ".jpg"
+    document.write("<a href='" + filename1 + "'><img src='" + filename1 + "' width=300/></a> <a href='" + filename2 + "'><img src='" + filename2 + "' width=300/></a> <a href='" + filename3 + "'><img src='" + filename3 + "' width=300/></a>");
+    document.write("<br><br>")
 }
 </script>
 
