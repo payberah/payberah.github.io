@@ -9,13 +9,13 @@ author_profile: true
 <h1>Education</h1>
 <ul>
 <li><b>PhD in Information and Communication Technology</b>, KTH Royal Institute of Technology, Kista, Sweden (2008 - 2013)<br>
-Thesis: Live Streaming in P2P and Hybrid P2P-Cloud Environments for the Open Internet [<a href="http://payberah.github.io/files/download/download/thesis/phd_thesis.pdf" style="color:#64B2CB">pdf</a>] [<a href="http://payberah.github.io/files/download/download/thesis/phd_thesis_latex.tar.bz2" style="color:#64B2CB">latex</a>] [<a href="http://payberah.github.io/files/download/download/thesis/phd_bibtex.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://payberah.github.io/files/download/download/thesis/phd_slides.pdf" style="color:#64B2CB">slides</a>] [<a href="http://youtu.be/1lBR6lhOxa0" style="color:#64B2CB">video</a>]<br>
+Thesis: Live Streaming in P2P and Hybrid P2P-Cloud Environments for the Open Internet [<a href="http://payberah.github.io/files/download/thesis/phd_thesis.pdf" style="color:#64B2CB">pdf</a>] [<a href="http://payberah.github.io/files/download/thesis/phd_thesis_latex.tar.bz2" style="color:#64B2CB">latex</a>] [<a href="http://payberah.github.io/files/download/thesis/phd_bibtex.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://payberah.github.io/files/download/thesis/phd_slides.pdf" style="color:#64B2CB">slides</a>] [<a href="http://youtu.be/1lBR6lhOxa0" style="color:#64B2CB">video</a>]<br>
 Amir H. Payberah, Supervisors: Prof. Seif Haridi and Dr. Jim Dowling, Oponent: Prof. Anwitaman Datta</li>
 <li><b>MSc in Software Engineering of Distributed Systems</b>, KTH Royal Institute of Technology, Kista, Sweden (2006 - 2008)<br>
-Thesis: ForestCast for Peer-to-Peer Live Media Streaming [<a href="http://payberah.github.io/files/download/download/thesis/master_thesis.pdf" style="color:#64B2CB">pdf</a>] [<a href="http://payberah.github.io/files/download/download/thesis/master_bibtex.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://payberah.github.io/files/download/download/thesis/master_slides.pdf" style="color:#64B2CB">slides</a>]<br>
+Thesis: ForestCast for Peer-to-Peer Live Media Streaming [<a href="http://payberah.github.io/files/download/thesis/master_thesis.pdf" style="color:#64B2CB">pdf</a>] [<a href="http://payberah.github.io/files/download/thesis/master_bibtex.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://payberah.github.io/files/download/thesis/master_slides.pdf" style="color:#64B2CB">slides</a>]<br>
 Amir H. Payberah and Fatemeh Rahimian, Supervisors: Prof. Seif Haridi and Dr. Ali Ghodsi.</li>
 <li><b>MSc in Computer Architecture</b>, Amirkabir University of Technology (AUT), Tehran, Iran (2000 - 2003)<br>
-Thesis: Auditing Intrusion Detection System using Mobile Agents [<a href="http://payberah.github.io/files/download/download/thesis/master_thesis_persian.pdf" style="color:#64B2CB">pdf</a>]<br>
+Thesis: Auditing Intrusion Detection System using Mobile Agents [<a href="http://payberah.github.io/files/download/thesis/master_thesis_persian.pdf" style="color:#64B2CB">pdf</a>]<br>
 Amir H. Payberah, Supervisor: Dr. Babak Sadeghian, Oponents: Dr. Hossein Pedrame and Dr. Rasoul Jalili</li>
 <li><b>BSc in Computer Engineering</b>, Amirkabir University of Technology (AUT), Tehran, Iran (1996 - 2000)<br>
 Thesis: Designing and implementing an I/O card and developing its device driver in GNU/Linux<br>
