@@ -22,7 +22,7 @@ I am working on solving high-impact healthcare problems, with the application of
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=9186541; 
-var sc_invisible=0; 
+var sc_invisible=1; 
 var sc_security="607d85ca"; 
 var scJsHost = (("https:" == document.location.protocol) ?
 "https://secure." : "http://www.");
@@ -30,10 +30,10 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script>
-<noscript><div class="statcounter"><a title="shopify
-analytics tool" href="http://statcounter.com/shopify/"
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="http://statcounter.com/"
 target="_blank"><img class="statcounter"
-src="//c.statcounter.com/9186541/0/607d85ca/0/" alt="shopify
-analytics tool"></a></div></noscript>
+src="//c.statcounter.com/9186541/0/607d85ca/1/" alt="Web
+Analytics Made Easy - StatCounter"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
