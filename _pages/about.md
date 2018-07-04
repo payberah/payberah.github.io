@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a machine learning scientist at the <a href="http://www.georgeinstitute.org.uk/">Geroge Institute</a> in <a href="http://www.ox.ac.uk/">University of Oxford</a>.
-I am working on solving high-impact healthcare problems, with the application of machine learning algorithms to large multi-model biomedical datasets. Prior to that, I was a senior researcher at the <a href="http://www.sics.se">Swedish Institute of Computer Science (SICS)</a>. My focus at SICS was on mining massive datasets and data intensive computing platforms (mainly Spark). I got my PhD from <a href="http://www.kth.se/eng">KTH Royal Institute of Technology</a> in Sweden in June 2013. During my PhD studies, I worked on distributed algorithms, Peer-to-Peer content distribution networks, gossip-based algorithms and large scale publish/subscribe systems.<br><br>My research interests include:
+I am an assistant professor of computer science at the department of <a href="https://www.kth.se/scs">Software and Computer System (SCS)</a> of <a href="https://www.kth.se">KTH Royal Institute of Technology</a> in Sweden. Prior to that, I was a machine learning scientist at <a href="https://www.oxfordmartin.ox.ac.uk/people/830">University of Oxford</a> (2017-2018), and a senior researcher at the <a href="https://www.sics.se/">Swedish Institute of Computer Science</a> (2013-2017). I got my PhD from <a href="https://www.kth.se">KTH</a> in June 2013. During my PhD studies, I worked on distributed algorithms and Peer-to-Peer networks.<br>
+<br>My research interests include:
 <div class="row text-justify">
 <ul>
 <li>Distributed systems and algorithms</li>
