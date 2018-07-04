@@ -26,7 +26,7 @@ Amir H. Payberah, Supervisor: Dr. Hossein Pedram</li>
 <!----------------------------------------->
 <h1>Work Experience</h1>
 <ul>
-<li><b>Machine Learning Scientist</b>, University of Oxford, Oxford, UK (April 2017 - Now)<br>
+<li><b>Machine Learning Scientist</b>, University of Oxford, Oxford, UK (April 2017 - June 2018)<br>
 Developing machine learning and deep learning algorithms to find patterns and trends in large biomedical datasets.</li>
 <li><b>Senior Researcher</b>, SICS Swedish ICT, Kista, Sweden (July 2013 - May 2017)<br>
 Worked on mining massive datasets and data intensive computing platforms (mainly Spark), and on data streaming and graph processing algorithms.</li>
