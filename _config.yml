@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amir H. Payberah"
 title_separator          : "-"
 name                     : &name "Amir H. Payberah"
-description              : &description "Machine Learning Scientist"
+description              : &description "Assistant Professor of Computer Science"
 url                      : https://payberah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "payberah/payberah.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Amir H. Payberah"
   avatar           : "profile.png"
-  bio              : "Machine Learning Scientist"
-  location         : "Oxford, UK"
+  bio              : "Assistant Professor of Computer Science"
+  location         : "Stockholm, Sweden"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=bw8NeMMAAAAJ&hl=en"
-  email            : "amir.payberah@georgeinstitute.ox.ac.uk"
+  email            : "payberah@kth.se"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   facebook         : "payberah"
   foursquare       :
   github           : "payberah"
-  google_plus      : "AmirHPayberah"
+  google_plus      : 
   keybase          :
   instagram        : "payberah"
   lastfm           :
