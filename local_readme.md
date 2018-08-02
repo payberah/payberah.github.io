@@ -17,7 +17,7 @@ git push origin master
 ###################################################################################
 * _config.yml: the main config file
 
-* _data/navigation.yml: the links path definition (the page files, either .md or .html, are under the folder _pages)
+* _data/navigation.yml: the links path definition (the pages, either .md or .html, are under the folder _pages)
 ```
 main:
   - title: "Publications"
@@ -31,6 +31,48 @@ main:
 
   - title: "CV"
     url: /cv/
+```
+
+* _includes/footer.html: the footer information, e.g., the email and phone number
+```
+{% include base_path %}
+
+<br>
+<i class="fa fa-fw fa-envelope" aria-hidden="true"></i> payberah@kth.se</a>
+<br>
+<i class="fa fa-fw fa-envelope" aria-hidden="true"></i> payberah@gmail.com</a>
+<br>
+<i class="fa fa-fw fa-skype" aria-hidden="true"></i> payberah</a>
+<br>
+<i class="fa fa-fw fa-phone" aria-hidden="true"></i> +46-(0)72-55 44 011</a>
+```
+
+
+###################################################################################
+# Install and update the Github pages dependencies
+1. Make sure you have ruby-dev, bundler, and nodejs installed:
+```
+sudo apt install ruby-dev ruby-bundler nodejs
+```
+
+2. Clean up the directory (no need to run --force)
+```
+bundle clean
+```
+
+3. Install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+```
+bundle install
+```
+
+4. Update every gem in the Gemfile to the latest possible versions:
+```
+bundle update
+```
+
+5. Update the bundler to the latest version:
+```
+sudo gem install bundler
 ```
 
 ###################################################################################
