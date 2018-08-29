@@ -47,7 +47,6 @@ main:
 <i class="fa fa-fw fa-phone" aria-hidden="true"></i> +46-(0)72-55 44 011</a>
 ```
 
-
 ###################################################################################
 # Install and update the Github pages dependencies
 1. Make sure you have ruby-dev, bundler, and nodejs installed:
@@ -98,3 +97,12 @@ plugins:
   </head>
 </html>
 ```
+
+###################################################################################
+# Run the GitHub pages locally
+1. Run:
+```
+bundle exec jekyll serve
+```
+
+2. It generates the HTML files and serves them on localhost:4000
