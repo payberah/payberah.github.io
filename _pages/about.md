@@ -13,7 +13,7 @@ I am an assistant professor of computer science at the department of <a href="ht
 <ul>
 <li>Distributed systems and algorithms</li>
 <li>Data intensive computing platforms</li>
-<li>Large scale data mining</li>
+<li>Large scale machine learning and deep learning</li>
 </ul>
 </div>
 
