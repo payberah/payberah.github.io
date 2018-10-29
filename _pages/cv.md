@@ -26,7 +26,7 @@ Amir H. Payberah, Supervisor: Dr. Hossein Pedram</li>
 <!----------------------------------------->
 <h1>Work Experience</h1>
 <ul>
-<li><b>Assistant Professor of Computer Science</b>, KTH Royal Institute of Technology, Kista, Sweden (July 2018 - Now)<br>
+<li><b>Assistant Professor of Computer Science</b>, KTH Royal Institute of Technology, Kista, Sweden (July 2018 - Now)<br></li>
 <li><b>Machine Learning Scientist</b>, University of Oxford, Oxford, UK (April 2017 - June 2018)<br>
 Developing machine learning and deep learning algorithms to find patterns and trends in large biomedical datasets.</li>
 <li><b>Senior Researcher</b>, SICS Swedish ICT, Kista, Sweden (July 2013 - May 2017)<br>
