@@ -53,6 +53,8 @@ Worked as a local area network administrator.</li>
 <li>Keynote speaker, Data intensive computing platforms, <a href="https://iccke2018.um.ac.ir/" style="color:#64B2CB">ICCKE</a>, The International Conference on Computer and Knowledge Engineering, <a href="http://www.ltu.se" style="color:#64B2CB">Ferdowsi University of Mashhad</a>, Mashhad, Iran (2018)</li>
 <li>Keynote speaker, Stratosphere, EIT ICT Labs and Cloudberry <a href="http://www.eitictlabs.eu/news-events/events/article/save-the-date-eit-ict-labs-and-cloudberry-science-innovation-days-in-luleaa-june-5-6/#allView" style="color:#64B2CB">Science and Innovation Days</a>, <a href="http://www.ltu.se" style="color:#64B2CB">Lulea University of Technology</a>, Lulea, Sweden (2014) [<a href="http://payberah.github.io/files/download/slides/stratosphere.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
+<li>PC member of <a href="http://ecn2019.edgecomp.org/" style="color:#64B2CB">ECN</a>, International Workshop on Edge Computing and Networking (2019)</li>
+<li>PC member of <a href="http://iot2019.ui.ac.ir/en/org_chart_page.php?rid=28" style="color:#64B2CB">ECN</a>, International Conference on Internet of Things and Applications (2019)</li>
 <li>PC member of <a href="http://csicc2017.ir/en" style="color:#64B2CB">CSICC</a>, National CSI Computer Conference (2017)</li>
 <li>PC member of <a href="http://umc.uestc.edu.cn/conference/IUCC2014/" style="color:#64B2CB">IUCC</a>, IEEE International Conference on Ubiquitous Computing and Communications (2014)</li>
 <li>PC member of <a href="http://www.iaria.org/conferences2014/INNOV14.html" style="color:#64B2CB">INNOV</a>, IARIA Conference on Communications, Computation, Networks and Technologies (2014)</li>
@@ -79,4 +81,17 @@ Worked as a local area network administrator.</li>
 <li>Reviewer of <a href="http://p2p-conference.org/" style="color:#64B2CB">P2P</a>, IEEE International Conference on Peer-to-Peer Computing (2008 - 2011)</li>
 <li>Reviewer of <a href="http://discotec.ru.is/dais/main" style="color:#64B2CB">DAIS</a>, IFIP International Conference on Distributed Applications and Interoperable Systems (2011)</li>
 <li>Reviewer of <a href="http://www.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2010 and 2013)</li>
+</ul>
+
+
+<br>
+<!----------------------------------------->
+<h1>Research Proposals and Grants (Contributor)</h1>
+<ul>
+<li><b>PhD Level Course in AI/ML</b><br>
+Funded by WASP.</li>
+<li><b>STREAMLINE: Improving Competitiveness of European Enterprises through Streamlined Analysis of Data at Rest and Data in Motion</b><br>
+Funded by H2020, ICT-16-2015 Big Data, Volume: 3.2M Euro, 2016-2018.</li>
+<li><b>BIDAF: A Big Data Analytics Framework for a Smart Society</b><br>
+Funded by KK-stiffen (KKS), Volume: 2.6M Euro, 2014-2019.</li>
 </ul>
