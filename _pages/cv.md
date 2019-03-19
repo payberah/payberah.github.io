@@ -83,7 +83,6 @@ Worked as a local area network administrator.</li>
 <li>Reviewer of <a href="http://www.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2010 and 2013)</li>
 </ul>
 
-
 <br>
 <!----------------------------------------->
 <h1>Research Proposals and Grants (Contributor)</h1>
