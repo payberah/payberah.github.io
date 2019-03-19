@@ -54,7 +54,7 @@ Worked as a local area network administrator.</li>
 <li>Keynote speaker, Stratosphere, EIT ICT Labs and Cloudberry <a href="http://www.eitictlabs.eu/news-events/events/article/save-the-date-eit-ict-labs-and-cloudberry-science-innovation-days-in-luleaa-june-5-6/#allView" style="color:#64B2CB">Science and Innovation Days</a>, <a href="http://www.ltu.se" style="color:#64B2CB">Lulea University of Technology</a>, Lulea, Sweden (2014) [<a href="http://payberah.github.io/files/download/slides/stratosphere.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
 <li>PC member of <a href="http://ecn2019.edgecomp.org/" style="color:#64B2CB">ECN</a>, International Workshop on Edge Computing and Networking (2019)</li>
-<li>PC member of <a href="http://iot2019.ui.ac.ir/en/org_chart_page.php?rid=28" style="color:#64B2CB">ECN</a>, International Conference on Internet of Things and Applications (2019)</li>
+<li>PC member of <a href="http://iot2019.ui.ac.ir/en/org_chart_page.php?rid=28" style="color:#64B2CB">IoT</a>, International Conference on Internet of Things and Applications (2019)</li>
 <li>PC member of <a href="http://csicc2017.ir/en" style="color:#64B2CB">CSICC</a>, National CSI Computer Conference (2017)</li>
 <li>PC member of <a href="http://umc.uestc.edu.cn/conference/IUCC2014/" style="color:#64B2CB">IUCC</a>, IEEE International Conference on Ubiquitous Computing and Communications (2014)</li>
 <li>PC member of <a href="http://www.iaria.org/conferences2014/INNOV14.html" style="color:#64B2CB">INNOV</a>, IARIA Conference on Communications, Computation, Networks and Technologies (2014)</li>
