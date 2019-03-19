@@ -89,7 +89,7 @@ Worked as a local area network administrator.</li>
 <h1>Research Proposals and Grants (Contributor)</h1>
 <ul>
 <li><b>PhD Level Course in AI/ML</b><br>
-Funded by WASP.</li>
+Funded by WASP, 2018-2020.</li>
 <li><b>STREAMLINE: Improving Competitiveness of European Enterprises through Streamlined Analysis of Data at Rest and Data in Motion</b><br>
 Funded by H2020, ICT-16-2015 Big Data, Volume: 3.2M Euro, 2016-2018.</li>
 <li><b>BIDAF: A Big Data Analytics Framework for a Smart Society</b><br>
