@@ -50,6 +50,7 @@ Worked as a local area network administrator.</li>
 <!----------------------------------------->
 <h1>Professional Activities in Journals and Conferences</h1>
 <ul>
+<li>Organizer, <a href="https://bdaschool2019.github.io/" style="color:#64B2CB">EIT Digital Big Data Analytics Summer School</a>, Stockholm, Sweden (2019)</li>
 <li>Keynote speaker, Data intensive computing platforms, <a href="https://iccke2018.um.ac.ir/" style="color:#64B2CB">ICCKE</a>, The International Conference on Computer and Knowledge Engineering, <a href="http://www.ltu.se" style="color:#64B2CB">Ferdowsi University of Mashhad</a>, Mashhad, Iran (2018)</li>
 <li>Keynote speaker, Stratosphere, EIT ICT Labs and Cloudberry <a href="http://www.eitictlabs.eu/news-events/events/article/save-the-date-eit-ict-labs-and-cloudberry-science-innovation-days-in-luleaa-june-5-6/#allView" style="color:#64B2CB">Science and Innovation Days</a>, <a href="http://www.ltu.se" style="color:#64B2CB">Lulea University of Technology</a>, Lulea, Sweden (2014) [<a href="http://payberah.github.io/files/download/slides/stratosphere.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
