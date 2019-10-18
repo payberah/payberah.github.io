@@ -3,12 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Education"
-    url: /education/
+  - title: "Teaching and Students"
+    url: /teaching/
 
-  - title: "Talks and Slides"
+  - title: "Professional Activities"
+    url: /activities/
+
+  - title: "Talks"
     url: /talks/
-    
+
   - title: "CV"
     url: /cv/
     
