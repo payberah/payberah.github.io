@@ -10,7 +10,7 @@ author_profile: true
 <ul>
 <li><a href="http://earthanalytics.eu/" style="color:#64B2CB">ExtremeEarth</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2018 - 2020)</li>
 <li><a href="http://www.oxfordmartin.ox.ac.uk/research/programmes/deep-medicine" style="color:#64B2CB">Deep Medicine</a> (<a href="http://www.georgeinstitute.org.uk/projects/deep-medicine" style="color:#64B2CB">Oxford</a>, 2017 - 2018)</li>
-<li><a href="http://www.cs.ox.ac.uk/projects/FDB/" style="color:#64B2CB">FDB</a>: Factorized Database (<a href="http://www.cs.ox.ac.uk" style="color:#64B2CB">Oxford</a>, 2017)</li>
+<li><a href="https://fdbresearch.github.io" style="color:#64B2CB">FDB</a>: Factorized Database (<a href="http://www.cs.ox.ac.uk" style="color:#64B2CB">Oxford</a>, 2017)</li>
 <li><a href="https://www.sics.se/www.sics.se/projects/doit" style="color:#64B2CB">DOIT</a>: Data-driven optimization for intelligent and efficient Transports (<a href="http://www.sics.se">SICS</a>, <a href="http://scania.se/" style="color:#64B2CB">Scania</a>, 2016)</li>
 <li><a href="http://bidaf.sics.se/" style="color:#64B2CB">BIDAF</a>: The research within massive data analysis by means of machine learning (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2015)</li>
 <li>Trafmod: A Big Data architecture for traffic modeling (<a href="http://www.sics.se">SICS</a>, <a href="http://www.ericsson.com" style="color:#64B2CB">Ericsson</a>, 2013 - 2014)</li>
@@ -25,12 +25,10 @@ author_profile: true
 
 <br>
 <!----------------------------------------->
-<h1>Professional Activities in Journals and Conferences</h1>
+<h1>Journals, Conferences and Seminars</h1>
 <ul>
 <li>Organiziation member, <a href="https://castor-software-days-2019.github.io/" style="color:#64B2CB">CASTOR Software Days</a>, Stockholm, Sweden (2019)</li>
 <li>Organizer, <a href="https://bdaschool2019.github.io/" style="color:#64B2CB">EIT Digital Big Data Analytics Summer School</a>, Stockholm, Sweden (2019)</li>
-<li>Keynote speaker, Data intensive computing platforms, <a href="https://iccke2018.um.ac.ir/" style="color:#64B2CB">ICCKE</a>, The International Conference on Computer and Knowledge Engineering, <a href="http://www.ltu.se" style="color:#64B2CB">Ferdowsi University of Mashhad</a>, Mashhad, Iran (2018)</li>
-<li>Keynote speaker, Stratosphere, EIT ICT Labs and Cloudberry <a href="http://www.eitictlabs.eu/news-events/events/article/save-the-date-eit-ict-labs-and-cloudberry-science-innovation-days-in-luleaa-june-5-6/#allView" style="color:#64B2CB">Science and Innovation Days</a>, <a href="http://www.ltu.se" style="color:#64B2CB">Lulea University of Technology</a>, Lulea, Sweden (2014) [<a href="http://payberah.github.io/files/download/slides/stratosphere.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
 <li>PC member of <a href="http://www.icccn.org/icccn20/" style="color:#64B2CB">ICCCN</a>, International Conference on Computer Communications and Networks (2020)</li>
 <li>PC member of <a href="http://ecn2019.edgecomp.org/" style="color:#64B2CB">ECN</a>, International Workshop on Edge Computing and Networking (2019)</li>
