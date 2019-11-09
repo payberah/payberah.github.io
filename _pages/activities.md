@@ -8,7 +8,8 @@ author_profile: true
 
 <h1>Projects</h1>
 <ul>
-<li><a href="http://earthanalytics.eu/" style="color:#64B2CB">ExtremeEarth</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2018 - 2020)</li>
+<li><a href="http://digitalcellulosecenter.se/" style="color:#64B2CB">Digital Cellulose Center</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2019 - 2022)</li>
+<li><a href="http://earthanalytics.eu/" style="color:#64B2CB">ExtremeEarth</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2018 - 2021)</li>
 <li><a href="http://www.oxfordmartin.ox.ac.uk/research/programmes/deep-medicine" style="color:#64B2CB">Deep Medicine</a> (<a href="http://www.georgeinstitute.org.uk/projects/deep-medicine" style="color:#64B2CB">Oxford</a>, 2017 - 2018)</li>
 <li><a href="https://fdbresearch.github.io" style="color:#64B2CB">FDB</a>: Factorized Database (<a href="http://www.cs.ox.ac.uk" style="color:#64B2CB">Oxford</a>, 2017)</li>
 <li><a href="https://www.sics.se/www.sics.se/projects/doit" style="color:#64B2CB">DOIT</a>: Data-driven optimization for intelligent and efficient Transports (<a href="http://www.sics.se">SICS</a>, <a href="http://scania.se/" style="color:#64B2CB">Scania</a>, 2016)</li>
