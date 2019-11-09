@@ -12,7 +12,7 @@ author_profile: true
 <li><a href="http://earthanalytics.eu/" style="color:#64B2CB">ExtremeEarth</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2018 - 2021)</li>
 <li><a href="http://www.oxfordmartin.ox.ac.uk/research/programmes/deep-medicine" style="color:#64B2CB">Deep Medicine</a> (<a href="http://www.georgeinstitute.org.uk/projects/deep-medicine" style="color:#64B2CB">Oxford</a>, 2017 - 2018)</li>
 <li><a href="https://fdbresearch.github.io" style="color:#64B2CB">FDB</a>: Factorized Database (<a href="http://www.cs.ox.ac.uk" style="color:#64B2CB">Oxford</a>, 2017)</li>
-<li><a href="https://www.sics.se/www.sics.se/projects/doit" style="color:#64B2CB">DOIT</a>: Data-driven optimization for intelligent and efficient Transports (<a href="http://www.sics.se">SICS</a>, <a href="http://scania.se/" style="color:#64B2CB">Scania</a>, 2016)</li>
+<li><a href="https://www.sics.se/www.sics.se/projects/doit" style="color:#64B2CB">DOIT</a>: Data-driven optimization for intelligent and efficient Transports (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, <a href="http://scania.se/" style="color:#64B2CB">Scania</a>, 2016)</li>
 <li><a href="http://bidaf.sics.se/" style="color:#64B2CB">BIDAF</a>: The research within massive data analysis by means of machine learning (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2015)</li>
 <li>Trafmod: A Big Data architecture for traffic modeling (<a href="http://www.sics.se">SICS</a>, <a href="http://www.ericsson.com" style="color:#64B2CB">Ericsson</a>, 2013 - 2014)</li>
 <li><a href="http://e2e-clouds.org/" style="color:#64B2CB">E2E Clouds</a>: A distributed and federated Cloud infrastructure (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2013)</li>
