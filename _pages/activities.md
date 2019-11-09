@@ -20,7 +20,7 @@ author_profile: true
 <li><a href="http://www.sics.se/projects/peertv" style="color:#64B2CB">PeerTV</a>: Designing a flexible and efficient infrastructure for live streaming over Internet (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008 - 2010)</li>
 <li><a href="http://www.sics.se/~amir/sicsim" style="color:#64B2CB">SICSIM</a>: A discrete-event, flow-level simulator for simulating Peer-to-Peer overlays (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008)</li>
 <li><a href="http://www.balticgrid.org/" style="color:#64B2CB">BalticGrid</a>: Integrating Tycoon and gLite Grid systems (<a href="http://www.pdc.kth.se" style="color:#64B2CB">PDC</a>, 2007)</li>
-<li>Farsi Linux: Creating two Farsi GNU/Linux distributions, Learnux and <a href="http://distrowatch.com/table.php?distribution=karamad" style="color:#64B2CB">Karamad</a> (<a href="http://www.dpi.ir">DPI</a>, 2005)</li>
+<li>Farsi Linux: Creating two Farsi GNU/Linux distributions, Learnux and <a href="http://distrowatch.com/table.php?distribution=karamad" style="color:#64B2CB">Karamad</a> (<a href="http://www.dpi.ir" style="color:#64B2CB">DPI</a>, 2005)</li>
 <li>Embedded GNU/Linux: Creating embedded GNU/Linux distributions for Set-Top-Boxes and Thin Clients (Gata, 2004)</li>
 </ul>
 
