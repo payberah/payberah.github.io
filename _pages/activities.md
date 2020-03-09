@@ -32,6 +32,7 @@ author_profile: true
 <li>Organizer, <a href="https://bdaschool2019.github.io/" style="color:#64B2CB">EIT Digital Big Data Analytics Summer School</a>, Stockholm, Sweden (2019)</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
 <li>PC member of <a href="http://www.icccn.org/icccn20/" style="color:#64B2CB">ICCCN</a>, International Conference on Computer Communications and Networks (2020)</li>
+<li>PC member of <a href="https://sdm.lbl.gov/snta/2020/" style="color:#64B2CB">SNTA</a>, International Workshop on Systems and Network Telemetry and Analytics (2020)</li>
 <li>PC member of <a href="http://ecn2019.edgecomp.org/" style="color:#64B2CB">ECN</a>, International Workshop on Edge Computing and Networking (2019)</li>
 <li>PC member of <a href="http://iot2019.ui.ac.ir/en/org_chart_page.php?rid=28" style="color:#64B2CB">IoT</a>, International Conference on Internet of Things and Applications (2019)</li>
 <li>PC member of <a href="http://csicc2017.ir/en" style="color:#64B2CB">CSICC</a>, National CSI Computer Conference (2017)</li>
