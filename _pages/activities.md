@@ -68,6 +68,8 @@ author_profile: true
 <!----------------------------------------->
 <h1>Research Proposals and Grants</h1>
 <ul>
+<li><b>Industrial PhD Student Position in AI</b><br>
+Funded by WASP, 2020-2024.</li>
 <li><b>PhD Level Course in AI/ML</b><br>
 Funded by WASP, 2018-2020.</li>
 <li><b>STREAMLINE: Improving Competitiveness of European Enterprises through Streamlined Analysis of Data at Rest and Data in Motion</b> (Contributor)<br>
