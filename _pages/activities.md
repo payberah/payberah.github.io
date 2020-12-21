@@ -34,7 +34,7 @@ author_profile: true
 <li>PC member of <a href="https://www.euromlsys.eu/" style="color:#64B2CB">EuroMLSys</a>, Workshop on Machine Learning and Systems, co-located with <a href="https://2021.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2021)</li>
 <li>PC member of <a href="https://www.icmla-conference.org/icmla20/" style="color:#64B2CB">ICMLA</a>, IEEE International Conference on Machine Learning and Applications - Deep Learning Special Session (2020)</li>
 <li>PC member of <a href="http://www.icccn.org/icccn20/" style="color:#64B2CB">ICCCN</a>, International Conference on Computer Communications and Networks (2020)</li>
-<li>PC member of <a href="https://sdm.lbl.gov/snta/2020/" style="color:#64B2CB">SNTA</a>, Workshop on Systems and Network Telemetry and Analytics - co-located with ACM <a href="http://www.hpdc.org/2020/" style="color:#64B2CB">HPDC</a> (2020)</li>
+<li>PC member of <a href="https://sdm.lbl.gov/snta/2020/" style="color:#64B2CB">SNTA</a>, Workshop on Systems and Network Telemetry and Analytics - co-located with ACM <a href="http://www.hpdc.org/2020/" style="color:#64B2CB">HPDC</a> (2020-2021)</li>
 <li>PC member of <a href="http://www.icspis.ir/" style="color:#64B2CB">ICSPIS</a>, International Conference on Signal Processing and Intelligent Systems (2020)</li>
 <li>PC member of <a href="http://ecn2019.edgecomp.org/" style="color:#64B2CB">ECN</a>, Workshop on Edge Computing and Networking - co-located with <a href="http://icccn.org/icccn19/" style="color:#64B2CB">ICCCN</a> (2019)</li>
 <li>PC member of <a href="http://iot2019.ui.ac.ir/en/org_chart_page.php?rid=28" style="color:#64B2CB">IoT</a>, International Conference on Internet of Things and Applications (2019)</li>
