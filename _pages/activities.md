@@ -8,19 +8,19 @@ author_profile: true
 
 <h1>Projects</h1>
 <ul>
-<li>DataCloud (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2021 - 2024)</li>
+<li><a href="http://datacloudproject.eu/" style="color:#64B2CB">DataCloud (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2021 - 2024)</li>
 <li>RISE AI Center (<a href="https://www.ri.se/en" style="color:#64B2CB">RISE</a>, 2021 - 2022)</li>
 <li><a href="http://digitalcellulosecenter.se/" style="color:#64B2CB">Digital Cellulose Center</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2019 - 2022)</li>
 <li><a href="http://earthanalytics.eu/" style="color:#64B2CB">ExtremeEarth</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2018 - 2021)</li>
 <li><a href="http://www.oxfordmartin.ox.ac.uk/research/programmes/deep-medicine" style="color:#64B2CB">Deep Medicine</a> (<a href="http://www.georgeinstitute.org.uk/projects/deep-medicine" style="color:#64B2CB">Oxford</a>, 2017 - 2018)</li>
 <li><a href="https://fdbresearch.github.io" style="color:#64B2CB">FDB</a>: Factorized Database (<a href="http://www.cs.ox.ac.uk" style="color:#64B2CB">Oxford</a>, 2017)</li>
-<li><a href="https://www.sics.se/www.sics.se/projects/doit" style="color:#64B2CB">DOIT</a>: Data-driven optimization for intelligent and efficient Transports (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, <a href="http://scania.se/" style="color:#64B2CB">Scania</a>, 2016)</li>
-<li><a href="http://bidaf.sics.se/" style="color:#64B2CB">BIDAF</a>: The research within massive data analysis by means of machine learning (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2015)</li>
+<li><a href="https://www.vinnova.se/en/p/data-driven-optimization-for-intelligent-and-efficient-transports-doit/" style="color:#64B2CB">DOIT</a>: Data-driven optimization for intelligent and efficient Transports (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, <a href="http://scania.se/" style="color:#64B2CB">Scania</a>, 2016)</li>
+<li><a href="https://www.ri.se/en/what-we-do/projects/big-data-analytics-platform" style="color:#64B2CB">BIDAF</a>: The research within massive data analysis by means of machine learning (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2015)</li>
 <li>Trafmod: A Big Data architecture for traffic modeling (<a href="http://www.sics.se">SICS</a>, <a href="http://www.ericsson.com" style="color:#64B2CB">Ericsson</a>, 2013 - 2014)</li>
 <li><a href="http://e2e-clouds.org/" style="color:#64B2CB">E2E Clouds</a>: A distributed and federated Cloud infrastructure (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2013)</li>
 <li><a href="http://clommunity-project.eu/" style="color:#64B2CB">Clommunity</a>: A Community networking Cloud in a box (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2013)</li>
-<li><a href="http://www.sics.se/projects/peertv" style="color:#64B2CB">PeerTV</a>: Designing a flexible and efficient infrastructure for live streaming over Internet (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008 - 2010)</li>
-<li><a href="http://www.sics.se/~amir/sicsim" style="color:#64B2CB">SICSIM</a>: A discrete-event, flow-level simulator for simulating Peer-to-Peer overlays (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008)</li>
+<li><a href="https://www.vinnova.se/p/peertv/" style="color:#64B2CB">PeerTV</a>: Designing a flexible and efficient infrastructure for live streaming over Internet (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008 - 2010)</li>
+<li>SICSIM: A discrete-event, flow-level simulator for simulating Peer-to-Peer overlays (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008)</li>
 <li><a href="http://www.balticgrid.org/" style="color:#64B2CB">BalticGrid</a>: Integrating Tycoon and gLite Grid systems (<a href="http://www.pdc.kth.se" style="color:#64B2CB">PDC</a>, 2007)</li>
 <li>Farsi Linux: Creating two Farsi GNU/Linux distributions, Learnux and <a href="http://distrowatch.com/table.php?distribution=karamad" style="color:#64B2CB">Karamad</a> (<a href="http://www.dpi.ir" style="color:#64B2CB">DPI</a>, 2005)</li>
 <li>Embedded GNU/Linux: Creating embedded GNU/Linux distributions for Set-Top-Boxes and Thin Clients (Gata, 2004)</li>
