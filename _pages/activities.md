@@ -34,7 +34,7 @@ author_profile: true
 <li>Organizer, <a href="https://bdaschool2019.github.io/" style="color:#64B2CB">EIT Digital Big Data Analytics Summer School</a>, Stockholm, Sweden (2019)</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
 <li>Editorial board member of <a href="https://escholarship.org/uc/jsys" style="color:#64B2CB">JSys</a>, Journal of System Research</li>
-<li>PC member of <a href="https://ieeecompsac.computer.org/2021/asys/" style="color:#64B2CB">ASYS</a>, IEEE COMPSAC Symposium on Autonomous Systems (2021)</li>
+<li>PC member of <a href="https://ieeecompsac.computer.org/2021/asys/" style="color:#64B2CB">COMPSAC</a>, IEEE COMPSAC Symposium on Autonomous Systems (2021)</li>
 <li>PC member of <a href="https://www.euromlsys.eu/" style="color:#64B2CB">EuroMLSys</a>, Workshop on Machine Learning and Systems, co-located with <a href="https://2021.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2021)</li>
 <li>PC member of <a href="https://sdm.lbl.gov/snta/2021/" style="color:#64B2CB">SNTA</a>, Workshop on Systems and Network Telemetry and Analytics - co-located with ACM <a href="http://www.hpdc.org/2021/" style="color:#64B2CB">HPDC</a> (2021)</li>
 <li>PC member of <a href="https://www.icmla-conference.org/icmla20/" style="color:#64B2CB">ICMLA</a>, IEEE International Conference on Machine Learning and Applications - Deep Learning Special Session (2020)</li>
