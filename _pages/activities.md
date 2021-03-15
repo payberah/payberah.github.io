@@ -8,7 +8,7 @@ author_profile: true
 
 <h1>Projects</h1>
 <ul>
-<li><a href="http://datacloudproject.eu/" style="color:#64B2CB">DataCloud (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2021 - 2024)</li>
+<li><a href="http://datacloudproject.eu/" style="color:#64B2CB">DataCloud</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2021 - 2024)</li>
 <li>RISE AI Center (<a href="https://www.ri.se/en" style="color:#64B2CB">RISE</a>, 2021 - 2022)</li>
 <li><a href="http://digitalcellulosecenter.se/" style="color:#64B2CB">Digital Cellulose Center</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2019 - 2022)</li>
 <li><a href="http://earthanalytics.eu/" style="color:#64B2CB">ExtremeEarth</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2018 - 2021)</li>
