@@ -22,6 +22,7 @@ gem "jekyll", ">= 3.7.4"
 gem "rubyzip", ">= 1.2.2"
 gem "kramdown", ">= 2.3.1"
 gem "rexml", ">= 3.2.5"
+#gem "commonmarker", ">= 0.23.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -29,4 +30,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-commonmark-ghpages'
 end

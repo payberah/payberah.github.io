@@ -16,7 +16,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     dnsruby (1.61.5)
       simpleidn (~> 0.1)
     em-websocket (0.5.2)
@@ -116,7 +116,7 @@ GEM
       commonmarker (~> 0.14)
       jekyll (>= 3.7, < 5.0)
     jekyll-commonmark-ghpages (0.1.6)
-      commonmarker (~> 0.23.4)
+      commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
     jekyll-default-layout (0.1.4)
@@ -268,6 +268,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (>= 3.7.4)
+  jekyll-commonmark-ghpages
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
