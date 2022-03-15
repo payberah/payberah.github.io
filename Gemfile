@@ -17,7 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem "nokogiri", ">= 1.11.0.rc4"
+gem "nokogiri", ">= 1.13.2"
 gem "jekyll", ">= 3.7.4"
 gem "rubyzip", ">= 1.2.2"
 gem "kramdown", ">= 2.3.1"
