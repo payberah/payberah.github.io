@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am an assistant professor (docent) of computer science at the division of <a href="https://www.kth.se/scs">Software and Computer System (SCS)</a> of <a href="https://www.kth.se">KTH Royal Institute of Technology</a> 
+I am an associate professor (docent) of computer science at the division of <a href="https://www.kth.se/scs">Software and Computer System (SCS)</a> of <a href="https://www.kth.se">KTH Royal Institute of Technology</a> 
 in Sweden. I am also a member of the Distributed Computing at KTH (<a href="https://dcatkth.github.io/">DC@KTH</a>) and the Center on Advanced Software Technology Research 
 (<a href="https://www.castor.kth.se/">CASTOR</a>). Prior to that, I was a machine learning scientist at <a href="https://www.oxfordmartin.ox.ac.uk/people/830">University of Oxford</a> (2017-2018), 
 and a senior researcher at the <a href="https://www.sics.se/">Swedish Institute of Computer Science</a> (2013-2017). I got my PhD from <a href="https://www.kth.se">KTH Royal Institute of Technology</a> in June 2013.<br>
