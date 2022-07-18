@@ -48,7 +48,8 @@ author_profile: true
 <li>PC member of <a href="http://umc.uestc.edu.cn/conference/IUCC2014/" style="color:#64B2CB">IUCC</a>, IEEE International Conference on Ubiquitous Computing and Communications (2014)</li>
 <li>PC member of <a href="http://www.iaria.org/conferences2014/INNOV14.html" style="color:#64B2CB">INNOV</a>, IARIA Conference on Communications, Computation, Networks and Technologies (2014)</li>
 <li>PC member of <a href="http://dais.discotec.org/" style="color:#64B2CB">DAIS</a>, IFIP International Conference on Distributed Applications and Interoperable Systems (2013)</li>
-<li>Reviewer of <a href="http://www.computer.org/portal/web/tpds/home;jsessionid=ab32a8c0569f55260ec39aca84ce" style="color:#64B2CB">TPDS</a>, IEEE Transactions on Parallel and Distributed Systems</li>
+<li>Reviewer of <a href="https://www.computer.org/csdl/journal/td" style="color:#64B2CB">TPDS</a>, IEEE Transactions on Parallel and Distributed Systems</li>
+<li>Reviewer of <a href="https://transactions.games/" style="color:#64B2CB">TOG</a>, IEEE Transactions on Games</li>
 <li>Reviewer of <a href="http://ees.elsevier.com/jpdc/" style="color:#64B2CB">JPDC</a>, Elsevier Journal of Parallel and Distributed Computing</li>
 <li>Reviewer of <a href="http://ees.elsevier.com/comnet/" style="color:#64B2CB">COMNET</a>, Elsevier Computer Networks</li>
 <li>Reviewer of <a href="http://www.journals.elsevier.com/computer-communications" style="color:#64B2CB">COMCOM</a>, Elsevier Computer Communications</li>
