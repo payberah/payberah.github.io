@@ -32,14 +32,15 @@ author_profile: true
 <ul>
 <li>Organiziation member, <a href="https://castor-software-days-2019.github.io/" style="color:#64B2CB">CASTOR Software Days</a>, Stockholm, Sweden (2019)</li>
 <li>Organizer, <a href="https://bdaschool2019.github.io/" style="color:#64B2CB">EIT Digital Big Data Analytics Summer School</a>, Stockholm, Sweden (2019)</li>
+<li>Area Co-Chair of <a href="https://escholarship.org/uc/jsys" style="color:#64B2CB">JSys</a>, Journal of System Research (2022)</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
-<li>Editorial board member of <a href="https://escholarship.org/uc/jsys" style="color:#64B2CB">JSys</a>, Journal of System Research</li>
-<li>PC member of <a href="https://ieeecompsac.computer.org/2021/asys/" style="color:#64B2CB">COMPSAC</a>, IEEE COMPSAC Symposium on Autonomous Systems (2021)</li>
-<li>PC member of <a href="https://www.euromlsys.eu/" style="color:#64B2CB">EuroMLSys</a>, Workshop on Machine Learning and Systems, co-located with <a href="https://2021.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2021)</li>
-<li>PC member of <a href="https://sdm.lbl.gov/snta/2021/" style="color:#64B2CB">SNTA</a>, Workshop on Systems and Network Telemetry and Analytics - co-located with ACM <a href="http://www.hpdc.org/2021/" style="color:#64B2CB">HPDC</a> (2021)</li>
+<li>PC member of <a href="https://ieeecompsac.computer.org/2021/asys/" style="color:#64B2CB">COMPSAC</a>, IEEE COMPSAC Symposium on Autonomous Systems (2021-2022)</li>
+<li>PC member of <a href="https://damdid2022.frccsc.ru/" style="color:#64B2CB">DAMDID</a>, International Conference on Data Analytics and Management in Data Intensive Domains (2022)</li>
+<li>PC member of <a href="https://dicg-workshop.github.io/" style="color:#64B2CB">DICG</a>, Workshop on Distributed Infrastructure for Common Good, co-located with <a href="https://middleware-conf.github.io/" style="color:#64B2CB">Middleware</a> (2022)</li>
+<li>PC member of <a href="https://www.euromlsys.eu/" style="color:#64B2CB">EuroMLSys</a>, Workshop on Machine Learning and Systems, co-located with <a href="https://www.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2021-2022)</li>
+<li>PC member of <a href="https://sdm.lbl.gov/snta/2021/" style="color:#64B2CB">SNTA</a>, Workshop on Systems and Network Telemetry and Analytics - co-located with ACM <a href="http://www.hpdc.org" style="color:#64B2CB">HPDC</a> (2020-2022)</li>
 <li>PC member of <a href="https://www.icmla-conference.org/icmla20/" style="color:#64B2CB">ICMLA</a>, IEEE International Conference on Machine Learning and Applications - Deep Learning Special Session (2020)</li>
 <li>PC member of <a href="http://www.icccn.org/icccn20/" style="color:#64B2CB">ICCCN</a>, International Conference on Computer Communications and Networks (2020)</li>
-<li>PC member of <a href="https://sdm.lbl.gov/snta/2020/" style="color:#64B2CB">SNTA</a>, Workshop on Systems and Network Telemetry and Analytics - co-located with ACM <a href="http://www.hpdc.org/2020/" style="color:#64B2CB">HPDC</a> (2020)</li>
 <li>PC member of <a href="http://www.icspis.ir/" style="color:#64B2CB">ICSPIS</a>, International Conference on Signal Processing and Intelligent Systems (2020)</li>
 <li>PC member of <a href="http://ecn2019.edgecomp.org/" style="color:#64B2CB">ECN</a>, Workshop on Edge Computing and Networking - co-located with <a href="http://icccn.org/icccn19/" style="color:#64B2CB">ICCCN</a> (2019)</li>
 <li>PC member of <a href="http://iot2019.ui.ac.ir/en/org_chart_page.php?rid=28" style="color:#64B2CB">IoT</a>, International Conference on Internet of Things and Applications (2019)</li>
