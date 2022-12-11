@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Amir H. Payberah"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Computer Science"
-  location         : 
+  bio              : "Associate Professor of Computer Science"
+  location         :
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=bw8NeMMAAAAJ&hl=en"
-  email            : 
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   facebook         : "payberah"
   foursquare       :
   github           : "payberah"
-  google_plus      : 
+  google_plus      :
   keybase          :
   instagram        : "payberah"
   lastfm           :
@@ -101,7 +101,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       : "payberah"
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "apayberah"
