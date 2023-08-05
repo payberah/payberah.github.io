@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amir H. Payberah"
+title                    : "Yalda Foroutan"
 title_separator          : "-"
-name                     : &name "Amir H. Payberah"
-description              : &description "Associate Professor of Computer Science"
+name                     : &name "Yalda Foroutan"
+description              : &description "Ph.D. Student at SFU"
 url                      : https://payberah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "payberah/payberah.github.io"
+repository               : "youlenda/github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amir H. Payberah"
+  name             : "Yalda Foroutan"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Computer Science"
-  location         :
+  bio              : "Ph.D. Student at SFU"
+  location         : "Vancouver"
   employer         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=bw8NeMMAAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=mkzIURcAAAAJ&hl=en"
+  email            : "yalda.foroutan@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "payberah"
+  facebook         : 
   foursquare       :
-  github           : "payberah"
+  github           : "youlenda"
   google_plus      :
   keybase          :
-  instagram        : "payberah"
+  instagram        :
   lastfm           :
   linkedin         : "payberah"
-  orcid            :
+  orcid            : "https://orcid.org/0009-0007-3462-2405"
   pinterest        :
-  soundcloud       : "payberah"
+  soundcloud       : 
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "apayberah"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Canada/Pacific # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
