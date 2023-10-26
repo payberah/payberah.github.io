@@ -11,7 +11,7 @@ redirect_from:
 I'm an Associate Professor of Computer Science at the Division of <a href="https://www.kth.se/scs">Software and Computer Systems (SCS)</a> at <a href="https://www.kth.se">KTH Royal Institute of Technology</a> 
 in Sweden. I earned my PhD from KTH in 2013, specializing in distributed systems. Following my doctoral studies, I worked as a postdoctoral researcher at the 
 <a href="https://www.ri.se/en">Research Institute of Sweden (RISE)</a>, focusing on data-intensive computing platforms. During my time as a postdoc at RISE, I also had the privilege of working as a guest 
-lecturer at <a href="https://ce.aut.ac.ir/">Amirkabir University of Tehran (AUT)</a> from 2013 until 2015. In 2017, I embarked on a role as a machine learning scientist at 
+lecturer at Amirkabir University of Tehran (AUT) from 2013 until 2015. In 2017, I embarked on a role as a machine learning scientist at 
 <a href="https://www.cs.ox.ac.uk/">Oxford University</a>, where I remained until 2018, and subsequently, I returned to KTH as an Assistant Professor.<br>
 
 My current research revolves around the domains of scalable machine learning and deep learning, reinforcement learning, and large language models. Furthermore, I am engaged as the specialization 
