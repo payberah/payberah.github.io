@@ -8,19 +8,11 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am an associate professor (docent) of computer science at the division of <a href="https://www.kth.se/scs">Software and Computer Systems (SCS)</a> of <a href="https://www.kth.se">KTH Royal Institute of Technology</a> 
-in Sweden. I am also a member of the Distributed Computing at KTH (<a href="https://dcatkth.github.io/">DC@KTH</a>) and the Center on Advanced Software Technology Research 
-(<a href="https://www.castor.kth.se/">CASTOR</a>). Prior to that, I was a machine learning scientist at the <a href="https://www.oxfordmartin.ox.ac.uk/people/830">University of Oxford</a> (2017-2018) 
-and a senior researcher at the <a href="https://www.sics.se/">Swedish Institute of Computer Science</a> (2013-2017). I got my PhD from <a href="https://www.kth.se">KTH Royal Institute of Technology</a> in June 2013.<br>
+I'm an Associate Professor of Computer Science at the Division of <a href="https://www.kth.se/scs">Software and Computer Systems (SCS)</a> at <a href="https://www.kth.se">KTH Royal Institute of Technology</a> in Sweden. I earned my PhD from KTH in 2013, specializing in distributed systems. Following my doctoral studies, I worked as a postdoctoral researcher at the <a href="https://www.kth.se">Research Institute of Sweden (RISE)</a>, focusing on data-intensive computing platforms. During my time as a postdoc at RISE, I also had the privilege of working as a guest lecturer at <a href="https://ce.aut.ac.ir/">Amirkabir University of Tehran (AUT)</a> from 2013 until 2015. In 2017, I embarked on a role as a machine learning scientist at <a href="https://www.oxfordmartin.ox.ac.uk/people/830">Oxford University</a>, where I remained until 2018, and subsequently, I returned to KTH as an Assistant Professor.<br>
+My current research revolves around the domains of scalable machine learning and deep learning, reinforcement learning, and large language models. Furthermore, I am engaged as the specialization representative of SCS in the ICT Doctoral program council and serve as a member of the workgroup for the software technology Master programs within the School of Electrical Engineering and Computer Science (EECS).<br>
+My primary focus and passion lies in enhancing critical consciousness within the realms of computing education and research. Computing lacks neutrality, and some of the harm caused by computing systems is rooted in pre-existing structures of societal oppression. Critical consciousness equips computer science researchers to identify and analyze these societal inequalities and oppressive systems and empowers them to act against these injustices. I advocate for integrating justice and equity as fundamental values in computer science research and educational endeavors, ensuring that our work serves the good of all individuals.
+
 </p>
-<br>My research interests include:
-<div class="row text-justify">
-<ul>
-<li>Distributed systems and algorithms</li>
-<li>Data-intensive computing platforms</li>
-<li>Scalable machine learning and deep learning</li>
-</ul>
-</div>
 
 <!------------------------------------------------------------------>
 <!-- Start of StatCounter Code for Default Guide -->
