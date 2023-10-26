@@ -22,8 +22,8 @@ My primary focus and passion lies in enhancing <a href="https://en.wikipedia.org
 Computing lacks neutrality, and some of the harm caused by computing systems is rooted in pre-existing structures of societal oppression. Critical consciousness equips computer science researchers to 
 identify and analyze these societal inequalities and oppressive systems and empowers them to act against these injustices. I advocate for integrating justice and equity as fundamental values in computer 
 science research and educational endeavors, ensuring that our work serves the good of all individuals.
-
 </p>
+.
 
 <!------------------------------------------------------------------>
 <!-- Start of StatCounter Code for Default Guide -->
