@@ -30,6 +30,7 @@ author_profile: true
 <!----------------------------------------->
 <h1>Journals, Conferences and Seminars</h1>
 <ul>
+<li>Organizer, <a href="https://co-liberative-computing.github.io/events/events_equity/" style="color:#64B2CB">Workshop on Equity and Justice in Computing</a>, Stockholm, Sweden (2024)</li>
 <li>Organiziation member, <a href="https://castor-software-days-2019.github.io/" style="color:#64B2CB">CASTOR Software Days</a>, Stockholm, Sweden (2019)</li>
 <li>Organizer, <a href="https://bdaschool2019.github.io/" style="color:#64B2CB">EIT Digital Big Data Analytics Summer School</a>, Stockholm, Sweden (2019)</li>
 <li>Area Co-Chair of <a href="https://escholarship.org/uc/jsys" style="color:#64B2CB">JSys</a>, Journal of System Research (2022)</li>
