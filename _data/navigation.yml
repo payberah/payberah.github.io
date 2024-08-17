@@ -9,14 +9,11 @@ main:
   - title: "Professional Activities"
     url: /activities/
 
-  - title: "Talks"
-    url: /talks/
-
   - title: "CV"
     url: /cv/
 
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /blog/
 
-  - title: "Booklog"
-    url: https://paynevesht.github.io/
+  - title: "Co-Liberative Computing"
+    url: https://co-liberative-computing.github.io/
