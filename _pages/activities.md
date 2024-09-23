@@ -8,6 +8,10 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Talk, Data Feminism, <a href="https://elliit.se/education-outreach/outreach/elliit-gender-and-diversity-group/" style="color:#64B2CB">Halmstad University</a>, Halmstad, Sweden (2024)</li>
+<li>Talk, Critiquing Data Science Through a Feminist Lens, <a href="https://t.me/halgheh_Sarv" style="color:#64B2CB">Sarv Study Circle</a>, Online, Iran (2024)</li>
+<li>Talk, Critiquing Power in Tech, <a href="https://wasp-sweden.org/event/joint-summer-school-on-generative-ai-2024/" style="color:#64B2CB">WASP Summer School on Generative AI</a>, Norrköping, Sweden (2024)</li>
+<li>Talk, Equity and Justice in Computing, <a href="https://co-liberative-computing.github.io/events/events_equity/" style="color:#64B2CB">Workshop on Equity and Justice in Computing</a>, Stockholm, Sweden (2024)</li>
 <li>Docent talk, Generalized Reinforcement Learning for Gameplay, <a href="https://www.kth.se/en" style="color:#64B2CB">KTH Royal Institute of Technology</a>, Stockholm, Sweden, October 2021 [<a href="http://payberah.github.io/files/download/slides/docent_lecture.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Talk, Distributed Deep Learning, <a href="http://aaiss.ceit.aut.ac.ir/" style="color:#64B2CB">AAISS</a>, Amirkabir Artificial Intelligence Summer Summit, <a href="http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en" style="color:#64B2CB">Amirkabir University of Technology (AUT)</a>, Tehran, Iran, August 2020 [<a href="http://payberah.github.io/files/download/slides/distributed_dl.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Keynote talk, Data intensive computing platforms, <a href="https://iccke2018.um.ac.ir/" style="color:#64B2CB">ICCKE</a>, The International Conference on Computer and Knowledge Engineering, <a href="http://www.ltu.se" style="color:#64B2CB">Ferdowsi University of Mashhad</a>, Mashhad, Iran (2018)</li>
