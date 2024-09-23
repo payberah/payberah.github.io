@@ -10,6 +10,7 @@ author_profile: true
 <ul>
 <li>Talk, Data Feminism, <a href="https://elliit.se/education-outreach/outreach/elliit-gender-and-diversity-group/" style="color:#64B2CB">Halmstad University</a>, Halmstad, Sweden (2024)</li>
 <li>Talk, Critiquing Data Science Through a Feminist Lens, <a href="https://t.me/halgheh_Sarv" style="color:#64B2CB">Sarv Study Circle</a>, Online, Iran (2024)</li>
+<li>Panellist, More Than Muscles in the Lab: Expanding Masculinities in a Competitive Research Culture, <a href="http://vargas-solar.com/adbis-dei/dei-panel/" style="color:#64B2CB">ADBIS Diversity Equity and Inclusion</a>, Bayonne, France (2024)</li>
 <li>Talk, Critiquing Power in Tech, <a href="https://wasp-sweden.org/event/joint-summer-school-on-generative-ai-2024/" style="color:#64B2CB">WASP Summer School on Generative AI</a>, Norrköping, Sweden (2024)</li>
 <li>Talk, Equity and Justice in Computing, <a href="https://co-liberative-computing.github.io/events/events_equity/" style="color:#64B2CB">Workshop on Equity and Justice in Computing</a>, Stockholm, Sweden (2024)</li>
 <li>Docent talk, Generalized Reinforcement Learning for Gameplay, <a href="https://www.kth.se/en" style="color:#64B2CB">KTH Royal Institute of Technology</a>, Stockholm, Sweden, October 2021 [<a href="http://payberah.github.io/files/download/slides/docent_lecture.pdf" style="color:#64B2CB">slides</a>]</li>
