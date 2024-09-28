@@ -9,7 +9,7 @@ author_profile: true
 <h1>Education</h1>
 <ul>
 <li><b>Docent in Computer Science with Specialization in Distributed Computin</b>, KTH, Sweden (2021)<br>
-Docent presentation: Live Streaming in P2P and Hybrid P2P-Cloud Environments for the Open Internet [<a href="http://payberah.github.io/files/download/slides/docent_lecture.pdf" style="color:#64B2CB">slides</a>]<br></li>
+Docent presentation: Generalized Reinforcement Learning for Gameplay [<a href="http://payberah.github.io/files/download/slides/docent_lecture.pdf" style="color:#64B2CB">slides</a>]<br></li>
 <li><b>PhD in Information and Communication Technology</b>, KTH, Sweden (2008 - 2013)<br>
 Thesis: Live Streaming in P2P and Hybrid P2P-Cloud Environments for the Open Internet [<a href="http://payberah.github.io/files/download/thesis/phd_thesis.pdf" style="color:#64B2CB">pdf</a>] [<a href="http://payberah.github.io/files/download/thesis/phd_thesis_latex.tar.bz2" style="color:#64B2CB">latex</a>] [<a href="http://payberah.github.io/files/download/thesis/phd_bibtex.bib" style="color:#64B2CB">bibtex</a>] [<a href="http://payberah.github.io/files/download/thesis/phd_slides.pdf" style="color:#64B2CB">slides</a>]<br>
 Supervisors: Prof. Seif Haridi and Dr. Jim Dowling, Oponent: Prof. Anwitaman Datta</li>
