@@ -8,6 +8,7 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Talk, Data Feminism, <a href="https://www.malvinakth.se/" style="color:#64B2CB">Malvina, Stockholm, Sweden, October 2024</li>
 <li>Guest Lecture, Societal Aspects of Data Science, <a href="https://www.uu.se/en/study/syllabus?query=49245" style="color:#64B2CB">Uppsala University</a>, Uppsala, Sweden, October 2024</li>
 <li>Talk, Data Feminism, <a href="https://elliit.se/education-outreach/outreach/elliit-gender-and-diversity-group/" style="color:#64B2CB">Halmstad University</a>, Halmstad, Sweden, September 2024</li>
 <li>Talk, Critiquing Data Science Through a Feminist Lens, <a href="https://t.me/halgheh_Sarv" style="color:#64B2CB">Sarv Study Circle</a>, Online, Iran, September 2024</li>
