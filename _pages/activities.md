@@ -8,13 +8,15 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Talk, Power Dynamics in Academia, <a href="https://www.dr.kth.se/" style="color:#64B2CB">PhD Chapter at KTH</a>, Stockholm, Sweden, November 2024</li>
+<li>Workshop, Exploring Bias in Generative Models, <a href="https://co-liberative-computing.github.io/events/events_biasgen/" style="color:#64B2CB">WASP-HS AI for Humanity and Society</a>, Gothenburg, Sweden, November 2024</li>
 <li>Talk, Data Feminism, <a href="https://www.malvinakth.se/" style="color:#64B2CB">Malvina</a>, Stockholm, Sweden, October 2024</li>
 <li>Guest Lecture, Societal Aspects of Data Science, <a href="https://www.uu.se/en/study/syllabus?query=49245" style="color:#64B2CB">Uppsala University</a>, Uppsala, Sweden, October 2024</li>
 <li>Talk, Data Feminism, <a href="https://elliit.se/education-outreach/outreach/elliit-gender-and-diversity-group/" style="color:#64B2CB">Halmstad University</a>, Halmstad, Sweden, September 2024</li>
 <li>Talk, Critiquing Data Science Through a Feminist Lens, <a href="https://t.me/halgheh_Sarv" style="color:#64B2CB">Sarv Study Circle</a>, Online, Iran, September 2024</li>
 <li>Panellist, More Than Muscles in the Lab: Expanding Masculinities in a Competitive Research Culture, <a href="http://vargas-solar.com/adbis-dei/dei-panel/" style="color:#64B2CB">ADBIS Diversity Equity and Inclusion</a>, Bayonne, France, August 2024</li>
-<li>Talk, Critiquing Power in Tech, <a href="https://wasp-sweden.org/event/joint-summer-school-on-generative-ai-2024/" style="color:#64B2CB">WASP Summer School on Generative AI</a>, Norrköping, Sweden, August 2024</li>
-<li>Talk, Equity and Justice in Computing, <a href="https://co-liberative-computing.github.io/events/events_equity/" style="color:#64B2CB">Workshop on Equity and Justice in Computing</a>, Stockholm, Sweden, March 2024</li>
+<li>Workshop, Critiquing Power in Tech, <a href="https://wasp-sweden.org/event/joint-summer-school-on-generative-ai-2024/" style="color:#64B2CB">WASP Summer School on Generative AI</a>, Norrköping, Sweden, August 2024</li>
+<li>Workshop, Equity and Justice in Computing, <a href="https://co-liberative-computing.github.io/events/events_equity/" style="color:#64B2CB">Workshop on Equity and Justice in Computing</a>, Stockholm, Sweden, March 2024</li>
 <li>Docent talk, Generalized Reinforcement Learning for Gameplay, <a href="https://www.kth.se/en" style="color:#64B2CB">KTH Royal Institute of Technology</a>, Stockholm, Sweden, October 2021 [<a href="http://payberah.github.io/files/download/slides/docent_lecture.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Talk, Distributed Deep Learning, <a href="http://aaiss.ceit.aut.ac.ir/" style="color:#64B2CB">AAISS</a>, Amirkabir Artificial Intelligence Summer Summit, <a href="http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en" style="color:#64B2CB">Amirkabir University of Technology (AUT)</a>, Tehran, Iran, August 2020 [<a href="http://payberah.github.io/files/download/slides/distributed_dl.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Keynote, Data Intensive Computing, <a href="https://iccke2018.um.ac.ir/" style="color:#64B2CB">ICCKE</a>, The International Conference on Computer and Knowledge Engineering, <a href="http://www.ltu.se" style="color:#64B2CB">Ferdowsi University of Mashhad</a>, Mashhad, Iran, 2018</li>
@@ -60,6 +62,7 @@ author_profile: true
 <!----------------------------------------->
 <h1>Journals, Conferences and Seminars</h1>
 <ul>
+<li>Organizer, <a href="https://co-liberative-computing.github.io/events/events_biasgen/" style="color:#64B2CB">Exploring Bias in Generative Models</a>, Gothenburg, Sweden (2024)</li>
 <li>Organizer, <a href="https://co-liberative-computing.github.io/events/events_equity/" style="color:#64B2CB">Workshop on Equity and Justice in Computing</a>, Stockholm, Sweden (2024)</li>
 <li>Organiziation member, <a href="https://castor-software-days-2019.github.io/" style="color:#64B2CB">CASTOR Software Days</a>, Stockholm, Sweden (2019)</li>
 <li>Organizer, <a href="https://bdaschool2019.github.io/" style="color:#64B2CB">EIT Digital Big Data Analytics Summer School</a>, Stockholm, Sweden (2019)</li>
