@@ -8,6 +8,7 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Summer School, Feminist Perspectives on Technology: Power, Labor, and Justice, <a href="https://www.kth.se/femtech/calendar/phd-summer-school/phd-school-1.1397120" style="color:#64B2CB">The FemTech and Feminist Tech Focus Period</a>, Stockholm, Sweden, May 2025</li>
 <li>Talk, Power Dynamics in Academia, <a href="https://www.dr.kth.se/" style="color:#64B2CB">PhD Chapter at KTH</a>, Stockholm, Sweden, November 2024</li>
 <li>Workshop, Exploring Bias in Generative Models, <a href="https://co-liberative-computing.github.io/events/events_biasgen/" style="color:#64B2CB">WASP-HS AI for Humanity and Society</a>, Gothenburg, Sweden, November 2024</li>
 <li>Talk, Data Feminism, <a href="https://www.malvinakth.se/" style="color:#64B2CB">Malvina</a>, Stockholm, Sweden, October 2024</li>
@@ -62,16 +63,21 @@ author_profile: true
 <!----------------------------------------->
 <h1>Journals, Conferences and Seminars</h1>
 <ul>
+<li>Organiziation member, Digital Futures Focus Period on <a href="https://www.kth.se/femtech" style="color:#64B2CB">FemTech and Feminist Tech</a>, Stockholm, Sweden (2025)</li>
 <li>Organizer, <a href="https://co-liberative-computing.github.io/events/events_biasgen/" style="color:#64B2CB">Exploring Bias in Generative Models</a>, Gothenburg, Sweden (2024)</li>
 <li>Organizer, <a href="https://co-liberative-computing.github.io/events/events_equity/" style="color:#64B2CB">Workshop on Equity and Justice in Computing</a>, Stockholm, Sweden (2024)</li>
-<li>Organiziation member, <a href="https://castor-software-days-2019.github.io/" style="color:#64B2CB">CASTOR Software Days</a>, Stockholm, Sweden (2019)</li>
 <li>Organizer, <a href="https://bdaschool2019.github.io/" style="color:#64B2CB">EIT Digital Big Data Analytics Summer School</a>, Stockholm, Sweden (2019)</li>
+<li>Organiziation member, <a href="https://castor-software-days-2019.github.io/" style="color:#64B2CB">CASTOR Software Days</a>, Stockholm, Sweden (2019)</li>
+<li>Co-Chair of <a href="https://www.euromlsys.eu/" style="color:#64B2CB">EuroMLSys</a>, Workshop on Machine Learning and Systems, co-located with ACM <a href="https://www.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2025)</li>
 <li>Area Co-Chair of <a href="https://escholarship.org/uc/jsys" style="color:#64B2CB">JSys</a>, Journal of System Research (2022)</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
-<li>PC member of <a href="https://ieeecompsac.computer.org/2021/asys/" style="color:#64B2CB">COMPSAC</a>, IEEE COMPSAC Symposium on Autonomous Systems (2021-2022)</li>
+<li>PC member of <a href="https://ieeecompsac.computer.org/2021/asys/" style="color:#64B2CB">ECML-PKDD</a>, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (2025)</li>
+<li>PC member of <a href="https://watch-miniconf.github.io/" style="color:#64B2CB">WATCH</a>, Workshop on Analytics, Telemetry, and Cybersecurity for HPCC, co-located with ACM <a href="https://www.sigsac.org/ccs/CCS2025" style="color:#64B2CB">CCS</a> (2025)</li>
+<li>PC member of <a href="https://dicg-workshop.github.io/" style="color:#64B2CB">DICG</a>, Workshop on Distributed Infrastructure for Common Good, co-located with IEEE <a href="https://icdcs2025.icdcs.org/" style="color:#64B2CB">ICDCS</a> (2025)</li>
+<li>PC member of <a href="https://dicg-workshop.github.io/" style="color:#64B2CB">DICG</a>, Workshop on Distributed Infrastructure for Common Good, co-located with ACM <a href="https://www.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2022-2024)</li>
+<li>PC member of <a href="https://ieeecompsac.computer.org/2021/asys/" style="color:#64B2CB">COMPSAC</a>, IEEE COMPSAC Symposium on Autonomous Systems (2021-2025)</li>
 <li>PC member of <a href="https://damdid2022.frccsc.ru/" style="color:#64B2CB">DAMDID</a>, International Conference on Data Analytics and Management in Data Intensive Domains (2022)</li>
-<li>PC member of <a href="https://dicg-workshop.github.io/" style="color:#64B2CB">DICG</a>, Workshop on Distributed Infrastructure for Common Good, co-located with <a href="https://middleware-conf.github.io/" style="color:#64B2CB">Middleware</a> (2022)</li>
-<li>PC member of <a href="https://www.euromlsys.eu/" style="color:#64B2CB">EuroMLSys</a>, Workshop on Machine Learning and Systems, co-located with <a href="https://www.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2021-2022)</li>
+<li>PC member of <a href="https://www.euromlsys.eu/" style="color:#64B2CB">EuroMLSys</a>, Workshop on Machine Learning and Systems, co-located with <a href="https://www.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2021-2024)</li>
 <li>PC member of <a href="https://sdm.lbl.gov/snta/2021/" style="color:#64B2CB">SNTA</a>, Workshop on Systems and Network Telemetry and Analytics - co-located with ACM <a href="http://www.hpdc.org" style="color:#64B2CB">HPDC</a> (2020-2022)</li>
 <li>PC member of <a href="https://www.icmla-conference.org/icmla20/" style="color:#64B2CB">ICMLA</a>, IEEE International Conference on Machine Learning and Applications - Deep Learning Special Session (2020)</li>
 <li>PC member of <a href="http://www.icccn.org/icccn20/" style="color:#64B2CB">ICCCN</a>, International Conference on Computer Communications and Networks (2020)</li>
