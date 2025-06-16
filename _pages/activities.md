@@ -8,6 +8,7 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Keynote, Ecofeminist Interventions in Distributed Systems, <a href="https://2025.debs.org/" style="color:#64B2CB">DEBS</a>, The International Conference on Distributed and Event-Based Systtems, <a href="http://www.ltu.se" style="color:#64B2CB">Chalmers University of Technology</a>, Gothenburg, Sweden, June 2025</li> 
 <li>Summer School, Feminist Perspectives on Technology: Power, Labor, and Justice, <a href="https://www.kth.se/femtech/calendar/phd-summer-school/phd-school-1.1397120" style="color:#64B2CB">The FemTech and Feminist Tech Focus Period</a>, Stockholm, Sweden, May 2025</li>
 <li>Talk, Power Dynamics in Academia, <a href="https://www.dr.kth.se/" style="color:#64B2CB">PhD Chapter at KTH</a>, Stockholm, Sweden, November 2024</li>
 <li>Workshop, Exploring Bias in Generative Models, <a href="https://co-liberative-computing.github.io/events/events_biasgen/" style="color:#64B2CB">WASP-HS AI for Humanity and Society</a>, Gothenburg, Sweden, November 2024</li>
@@ -20,7 +21,7 @@ author_profile: true
 <li>Workshop, Equity and Justice in Computing, <a href="https://co-liberative-computing.github.io/events/events_equity/" style="color:#64B2CB">Workshop on Equity and Justice in Computing</a>, Stockholm, Sweden, March 2024</li>
 <li>Docent talk, Generalized Reinforcement Learning for Gameplay, <a href="https://www.kth.se/en" style="color:#64B2CB">KTH Royal Institute of Technology</a>, Stockholm, Sweden, October 2021 [<a href="http://payberah.github.io/files/download/slides/docent_lecture.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Talk, Distributed Deep Learning, <a href="http://aaiss.ceit.aut.ac.ir/" style="color:#64B2CB">AAISS</a>, Amirkabir Artificial Intelligence Summer Summit, <a href="http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en" style="color:#64B2CB">Amirkabir University of Technology (AUT)</a>, Tehran, Iran, August 2020 [<a href="http://payberah.github.io/files/download/slides/distributed_dl.pdf" style="color:#64B2CB">slides</a>]</li>
-<li>Keynote, Data Intensive Computing, <a href="https://iccke2018.um.ac.ir/" style="color:#64B2CB">ICCKE</a>, The International Conference on Computer and Knowledge Engineering, <a href="http://www.ltu.se" style="color:#64B2CB">Ferdowsi University of Mashhad</a>, Mashhad, Iran, 2018</li>
+<li>Keynote, Data Intensive Computing, <a href="https://iccke2018.um.ac.ir/" style="color:#64B2CB">ICCKE</a>, <a href="https://en.um.ac.ir/" style="color:#64B2CB">Ferdowsi University of Mashhad</a>, Mashhad, Iran, 2018</li>
 <li>Keynote, Stratosphere, EIT ICT Labs and Cloudberry <a href="http://www.eitictlabs.eu/news-events/events/article/save-the-date-eit-ict-labs-and-cloudberry-science-innovation-days-in-luleaa-june-5-6/#allView" style="color:#64B2CB">Science and Innovation Days</a>, <a href="http://www.ltu.se" style="color:#64B2CB">Lulea University of Technology</a>, Lulea, Sweden (2014) [<a href="http://payberah.github.io/files/download/slides/stratosphere.pdf" style="color:#64B2CB">slides</a>]</li>
 <li>Worskhop, Introduction to Deep Learning, <a href="https://yazd.ac.ir/52/home.aspx" style="color:#64B2CB">Yazd University</a>, Yazd, Iran, December 2018</li>
 <li>Workshop, Deep Learning for Poets, <a href="http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en" style="color:#64B2CB">Amirkabir University of Technology (AUT)</a>, Tehran, Iran, December 2018 [<a href="http://payberah.github.io/files/download/slides/aut_dl1.pdf" style="color:#64B2CB">slides1</a>] [<a href="http://payberah.github.io/files/download/slides/aut_dl2.pdf" style="color:#64B2CB">slides2</a>] [<a href="http://payberah.github.io/files/download/slides/aut_dl3.pdf" style="color:#64B2CB">slides3</a>] [<a href="http://payberah.github.io/files/download/slides/aut_dl4.pdf" style="color:#64B2CB">slides4</a>] [<a href="https://drive.google.com/drive/folders/1am4owlWgondFRCJ8JjbB7Ub3_eX7qIcG" style="color:#64B2CB">videos</a>]</li>
@@ -40,6 +41,7 @@ author_profile: true
 <!----------------------------------------->
 <h1>Projects</h1>
 <ul>
+<li><a href="https://www.kth.se/inspirelab/projects/the-missing-data-reimagining-ai-systems-to-challenge-structural-silences-1.1408406" style="color:#64B2CB">The Missing Data: Reimagining AI Systems to Challenge Structural Silences</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2024 - 2026)</li>
 <li><a href="https://www.digitalfutures.kth.se/research/research-pairs/ongoing-research-pairs-projects/deepaqua/" style="color:#64B2CB">DeepAqua</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2024 - 2026)</li>
 <li><a href="http://datacloudproject.eu/" style="color:#64B2CB">DataCloud</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2021 - 2024)</li>
 <li>RISE AI Center (<a href="https://www.ri.se/en" style="color:#64B2CB">RISE</a>, 2021 - 2022)</li>
