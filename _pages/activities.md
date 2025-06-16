@@ -8,7 +8,7 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
-<li>Keynote, Ecofeminist Interventions in Distributed Systems, <a href="https://2025.debs.org/" style="color:#64B2CB">DEBS</a>, The International Conference on Distributed and Event-Based Systtems, <a href="http://www.ltu.se" style="color:#64B2CB">Chalmers University of Technology</a>, Gothenburg, Sweden, June 2025</li> 
+<li>Keynote, Ecofeminist Interventions in Distributed Systems, <a href="https://2025.debs.org/" style="color:#64B2CB">DEBS</a>, The International Conference on Distributed and Event-Based Systtems, <a href="https://www.chalmers.se/en/" style="color:#64B2CB">Chalmers University of Technology</a>, Gothenburg, Sweden, June 2025</li> 
 <li>Summer School, Feminist Perspectives on Technology: Power, Labor, and Justice, <a href="https://www.kth.se/femtech/calendar/phd-summer-school/phd-school-1.1397120" style="color:#64B2CB">The FemTech and Feminist Tech Focus Period</a>, Stockholm, Sweden, May 2025</li>
 <li>Talk, Power Dynamics in Academia, <a href="https://www.dr.kth.se/" style="color:#64B2CB">PhD Chapter at KTH</a>, Stockholm, Sweden, November 2024</li>
 <li>Workshop, Exploring Bias in Generative Models, <a href="https://co-liberative-computing.github.io/events/events_biasgen/" style="color:#64B2CB">WASP-HS AI for Humanity and Society</a>, Gothenburg, Sweden, November 2024</li>
