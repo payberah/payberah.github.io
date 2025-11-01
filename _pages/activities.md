@@ -8,6 +8,8 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Workshop, The Invisible Labor Behind AI, As part of the (<a href="https://www.repair-research.fi/tapahtumat/3110-workshop-and-seminar-on-invisible-labor-beneath-ai-with-amir-payberah" style="color:#64B2CB">REPAIR</a>) project, University of Helsinki, Helsinki, Finland, October 2025</li>
+<li>Talk, Hidden Hands of AI: Invisible Labor and Digital Imperialism, CMS Marx Conference (<a href="https://www.cmsmarx.org/marx25/" style="color:#64B2CB">Marx25</a>), Stockholm, Sweden, October 2025</li>
 <li>Keynote, Ecofeminist Interventions in AI Systems, <a href="https://www.kth.se/en/biblioteket/kalender/evenemang/nobel-calling-oppen-forelasning-ecofeminist-interventions-in-ai-systems-1.1421540" style="color:#64B2CB">Nobel Calling Open Lecture</a>, <a href="https://www.kth.se/en" style="color:#64B2CB">KTH Royal Institute of Technology</a>, Stockholm, Sweden, October 2025</li>
 <li>Talk, Ecofeminist Interventions in AI Systems, <a href="https://www.kth.se/hct/mid/division-of-media-technology-and-interaction-design-1.780301" style="color:#64B2CB">MID Seminar</a>, <a href="https://www.kth.se/en" style="color:#64B2CB">KTH Royal Institute of Technology</a>, Stockholm, Sweden, October 2025</li>
 <li>Guest Lecture, Ethics and Bias in Smart Cities, as part of the course <a href="https://www.kth.se/student/kurser/kurs/MJ2685?l=en" style="color:#64B2CB">Smart Cities and Climate Mitigation Strategies</a>, <a href="https://www.kth.se/en" style="color:#64B2CB">KTH Royal Institute of Technology</a>, Stockholm, Sweden, October 2025</li>
