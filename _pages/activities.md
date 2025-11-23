@@ -8,6 +8,8 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Talk, Data Feminism, As part of a workshop at <a href="https://www.hh.se/english/research/research-programmes/rebel-re-imagining-future-smart-living---beyond-the-living-lab.html" style="color:#64B2CB">REBEL</a>, Halmstad University, Halmstad, Sweden, November 2025</li>
+<li>Talk, Critiquing Power in Tech through an Intersectional Feminist Lens, National Equal Opportunities <a href="https://www.likavillkor2025.se/en/" style="color:#64B2CB">Conference</a>, Uppsala University, Uppsala, Sweden, November 2025</li>
 <li>Talk, Bias and Fairness in ML Life Cycle, Chalmers University, Göteborg, Sweden, November 2025</li>
 <li>Talk, Epistemic Violence in AI, As part of the <a href="https://www.kth.se/inspirelab/news-and-events/events/events/inspiretalks-amir-payberah-1.1428880?date=2025-11-04&orgdate=2025-11-01&length=1&orglength=30" style="color:#64B2CB">InspireTalks</a>: talks on innovation and gender equality, KTH, Stockholm, Sweden, November 2025</li>
 <li>Workshop, The Invisible Labor Behind AI, As part of the <a href="https://www.repair-research.fi/tapahtumat/3110-workshop-and-seminar-on-invisible-labor-beneath-ai-with-amir-payberah" style="color:#64B2CB">REPAIR</a> project, University of Helsinki, Helsinki, Finland, October 2025</li>
