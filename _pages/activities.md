@@ -8,6 +8,7 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Guest Lecture, Data Feminism, As part of the course <a href="https://www.kth.se/student/kurser/kurs/CM2029?l=en" style="color:#64B2CB">Healthcare Ethics, Legal and Social Impact</a>, <a href="https://www.kth.se/en" style="color:#64B2CB">KTH Royal Institute of Technology</a>, Stockholm, Sweden, November 2025</li>
 <li>Talk, Data Feminism, As part of a workshop at <a href="https://www.hh.se/english/research/research-programmes/rebel-re-imagining-future-smart-living---beyond-the-living-lab.html" style="color:#64B2CB">REBEL</a>, Halmstad University, Halmstad, Sweden, November 2025</li>
 <li>Talk, Critiquing Power in Tech through an Intersectional Feminist Lens, National Equal Opportunities <a href="https://www.likavillkor2025.se/en/" style="color:#64B2CB">Conference</a>, Uppsala University, Uppsala, Sweden, November 2025</li>
 <li>Talk, Bias and Fairness in ML Life Cycle, Chalmers University, Göteborg, Sweden, November 2025</li>
