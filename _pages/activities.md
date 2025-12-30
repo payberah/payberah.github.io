@@ -53,22 +53,29 @@ author_profile: true
 <!----------------------------------------->
 <h1>Projects</h1>
 <ul>
-<li>DeepAqua-II (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2026 - 2028)</li>
-<li><a href="https://colibrai.github.io/" style="color:#64B2CB">ColibrAI</a>: Research Lab and Network for Coliberative Development of AI (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, 2025 - 2026)</li>
-<li><a href="https://www.kth.se/inspirelab/projects/the-missing-data-reimagining-ai-systems-to-challenge-structural-silences-1.1408406" style="color:#64B2CB">The Missing Data</a>: Reimagining AI Systems to Challenge Structural Silences (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, 2025 - 2026)</li>
-<li><a href="https://www.digitalfutures.kth.se/research/research-pairs/ongoing-research-pairs-projects/deepaqua/" style="color:#64B2CB">DeepAqua</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2024 - 2026)</li>
-<li><a href="http://datacloudproject.eu/" style="color:#64B2CB">DataCloud</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2021 - 2024)</li>
+<li>Feminist Large Language Models for Detecting Silence and Contesting Online Gender-Based Violence (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by InspireLab, 2026-2029)</li>
+<li>DARES: Data Quality for Responsible AI in Energy System (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by NordForsk, 2026-2028)</li>
+<li>Enhancing Programming Education through Responsible Integration of Large Language Models (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by Digital Futures, 2026-2028)</li>
+<li>Feminist Pedagogies for Just and Accountable AI (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by UoM-KTH-SU, 2026)</li>
+<li><a href="https://www.kth.se/en/2.77563/research/research-themes/digitalised/projects/deepaqua-ii-scaling-the-quantification-of-surface-water-changes-to-global-levels-with-deep-learning-1.1447789">DeepAqua-II</a> (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by Digital Futures, 2026-2028)</li>
+<li>Enabling CivicAI for Youth Safety (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by KTH/EECS, 2026)</li>
+<li><a href="https://colibrai.github.io/" style="color:#64B2CB">ColibrAI</a>: Research Lab and Network for Coliberative Development of AI (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by Unit!, 2025-2026)</li>
+<li><a href="https://ecofeminist-ai.github.io/" style="color:#64B2CB">The Missing Data</a>: Reimagining AI Systems to Challenge Structural Silences (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by InspireLab, 2025-2026)</li>
+<li><a href="https://www.kth.se/femtech" style="color:#64B2CB">FemTech</a>: Examining the intersections of technology with health, wellbeing, and social justice (<a href="https://co-liberative-computing.github.io/" style="color:#64B2CB">KTH</a>, Funded by Digital Futures, 2025)</li>
+<li><a href="https://www.digitalfutures.kth.se/research/research-pairs/ongoing-research-pairs-projects/deepaqua/" style="color:#64B2CB">DeepAqua</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, Funded by Digital Futures, 2024-2026)</li>
+<li>Scalable Generalized Deep Reinforcement Learning (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, Funded by WASP, 2020-2024)</li>
+<li><a href="http://datacloudproject.eu/" style="color:#64B2CB">DataCloud</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2021-2024)</li>
 <li>RISE AI Center (<a href="https://www.ri.se/en" style="color:#64B2CB">RISE</a>, 2021 - 2022)</li>
-<li><a href="http://digitalcellulosecenter.se/" style="color:#64B2CB">Digital Cellulose Center</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2019 - 2022)</li>
-<li><a href="http://earthanalytics.eu/" style="color:#64B2CB">ExtremeEarth</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2018 - 2021)</li>
-<li><a href="http://www.oxfordmartin.ox.ac.uk/research/programmes/deep-medicine" style="color:#64B2CB">Deep Medicine</a> (<a href="http://www.georgeinstitute.org.uk/projects/deep-medicine" style="color:#64B2CB">Oxford</a>, 2017 - 2018)</li>
+<li><a href="http://digitalcellulosecenter.se/" style="color:#64B2CB">Digital Cellulose Center</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2019-2022)</li>
+<li><a href="http://earthanalytics.eu/" style="color:#64B2CB">ExtremeEarth</a> (<a href="https://dcatkth.github.io/" style="color:#64B2CB">KTH</a>, 2018-2021)</li>
+<li><a href="http://www.oxfordmartin.ox.ac.uk/research/programmes/deep-medicine" style="color:#64B2CB">Deep Medicine</a> (<a href="http://www.georgeinstitute.org.uk/projects/deep-medicine" style="color:#64B2CB">Oxford</a>, 2017-2018)</li>
 <li><a href="https://fdbresearch.github.io" style="color:#64B2CB">FDB</a>: Factorized Database (<a href="http://www.cs.ox.ac.uk" style="color:#64B2CB">Oxford</a>, 2017)</li>
 <li><a href="https://www.vinnova.se/en/p/data-driven-optimization-for-intelligent-and-efficient-transports-doit/" style="color:#64B2CB">DOIT</a>: Data-driven optimization for intelligent and efficient Transports (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, <a href="http://scania.se/" style="color:#64B2CB">Scania</a>, 2016)</li>
 <li><a href="https://www.ri.se/en/what-we-do/projects/big-data-analytics-platform" style="color:#64B2CB">BIDAF</a>: The research within massive data analysis by means of machine learning (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2015)</li>
-<li>Trafmod: A Big Data architecture for traffic modeling (<a href="http://www.sics.se">SICS</a>, <a href="http://www.ericsson.com" style="color:#64B2CB">Ericsson</a>, 2013 - 2014)</li>
+<li>Trafmod: A Big Data architecture for traffic modeling (<a href="http://www.sics.se">SICS</a>, <a href="http://www.ericsson.com" style="color:#64B2CB">Ericsson</a>, 2013-2014)</li>
 <li><a href="http://e2e-clouds.org/" style="color:#64B2CB">E2E Clouds</a>: A distributed and federated Cloud infrastructure (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2013)</li>
 <li><a href="http://clommunity-project.eu/" style="color:#64B2CB">Clommunity</a>: A Community networking Cloud in a box (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2013)</li>
-<li><a href="https://www.vinnova.se/p/peertv/" style="color:#64B2CB">PeerTV</a>: Designing a flexible and efficient infrastructure for live streaming over Internet (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008 - 2010)</li>
+<li><a href="https://www.vinnova.se/p/peertv/" style="color:#64B2CB">PeerTV</a>: Designing a flexible and efficient infrastructure for live streaming over Internet (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008-2010)</li>
 <li>SICSIM: A discrete-event, flow-level simulator for simulating Peer-to-Peer overlays (<a href="http://www.sics.se" style="color:#64B2CB">SICS</a>, 2008)</li>
 <li><a href="http://www.balticgrid.org/" style="color:#64B2CB">BalticGrid</a>: Integrating Tycoon and gLite Grid systems (<a href="http://www.pdc.kth.se" style="color:#64B2CB">PDC</a>, 2007)</li>
 <li>Farsi Linux: Creating two Farsi GNU/Linux distributions, Learnux and <a href="http://distrowatch.com/table.php?distribution=karamad" style="color:#64B2CB">Karamad</a> (<a href="http://www.dpi.ir" style="color:#64B2CB">DPI</a>, 2005)</li>
@@ -88,6 +95,8 @@ author_profile: true
 <li>Co-Chair of <a href="https://www.euromlsys.eu/" style="color:#64B2CB">EuroMLSys</a>, Workshop on Machine Learning and Systems, co-located with ACM <a href="https://www.eurosys.org/" style="color:#64B2CB">EuroSys</a> (2025)</li>
 <li>Area Co-Chair of <a href="https://escholarship.org/uc/jsys" style="color:#64B2CB">JSys</a>, Journal of System Research (2022)</li>
 <li>Track Co-Chair of <a href="http://ccnc2017.ieee-ccnc.org/" style="color:#64B2CB">CCNC</a>, IEEE Consumer Communications and Networking Conference (2017)</li>
+<li>PC member of <a href="https://healing-workshop.github.io/" style="color:#64B2CB">HeaLing</a>, Workshop on Linguistic Analysis for Health, co-located with <a href="https://icdcs2025.icdcs.org/" style="color:#64B2CB">EACL</a> (2026)</li>
+<li>PC member of <a href="https://sites.google.com/tilburguniversity.edu/democratizationgenai-chi26" style="color:#64B2CB">Democratising AI</a>, Workshop on Democratization of Generative AI, co-located with ACM <a href="https://chi2026.acm.org/" style="color:#64B2CB">CHI</a> (2026)</li>
 <li>PC member of <a href="https://ieeecompsac.computer.org/2021/asys/" style="color:#64B2CB">ECML-PKDD</a>, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (2025)</li>
 <li>PC member of <a href="https://watch-miniconf.github.io/" style="color:#64B2CB">WATCH</a>, Workshop on Analytics, Telemetry, and Cybersecurity for HPCC, co-located with ACM <a href="https://www.sigsac.org/ccs/CCS2025" style="color:#64B2CB">CCS</a> (2025)</li>
 <li>PC member of <a href="https://dicg-workshop.github.io/" style="color:#64B2CB">DICG</a>, Workshop on Distributed Infrastructure for Common Good, co-located with IEEE <a href="https://icdcs2025.icdcs.org/" style="color:#64B2CB">ICDCS</a> (2025)</li>
