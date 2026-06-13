@@ -8,6 +8,10 @@ author_profile: true
 
 <h1>Workshops and Talks</h1>
 <ul>
+<li>Talk, Ecofeminist AI, <a href="https://datajusticelab.org/event/data-justice-2026-the-datafied-state/" style="color:#64B2CB">Data Justice Conference</a>, Cardiff University, UK, Sweden, June 2026</li>
+<li>Talk, Reimagining AI Systems to Challenge Structural Silences, <a href="https://liu.se/en/research/justtech" style="color:#64B2CB">Just?Tech</a>, Linköping
+, Sweden, May 2026</li>
+<li>Workshop, Unpacking Technology Through Interdisciplinary Reflection, Research Opportunities at the Intersection of Society, Life Sciences, and Technology  (<a href="https://www.scilifelab.se/event/research-opportunities-at-the-intersection-of-society-life-sciences-and-technology/" style="color:#64B2CB">SciLifeLab</a>), Uppsala, Sweden, May 2026</li>
 <li>Talk, Ecofeminist Interventions in AI Systems, <a href="https://kth.ungapped.io/Events/0308137f-841f-4052-bcc3-d1dd86fdb5c2" style="color:#64B2CB">WaterCentre@KTH</a>, KTH, Stockholm, Sweden, March 2026</li>
 <li>Workshop, Making the Invisible Visible: Counterdata, Hidden Labor, and Community-Centric AI for Justice, The International Association for Safe & Ethical AI (<a href="https://www.iaseai.org/schedule-2026" style="color:#64B2CB">IASEAI</a>), Paris, France, February 2026</li>
 <li>Guest Lecture, Data Feminism, As part of the course <a href="https://www.kth.se/student/kurser/kurs/CM2029?l=en" style="color:#64B2CB">Healthcare Ethics, Legal and Social Impact</a>, KTH, Stockholm, Sweden, November 2025</li>
