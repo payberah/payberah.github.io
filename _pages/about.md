@@ -9,24 +9,17 @@ redirect_from:
 ---
 <p align="justify">
 
-I'm an Associate Professor of Computer Science at the Division of <a href="https://www.kth.se/scs">Software and Computer Systems (SCS)</a> at <a href="https://www.kth.se">KTH Royal Institute of Technology</a> 
-in Sweden. I earned my PhD from KTH in 2013, specializing in distributed systems. Following my doctoral studies, I worked as a postdoctoral researcher at the <a href="https://www.ri.se/en">Research Institute of Sweden (RISE)</a>, focusing on data-intensive computing 
-platforms. As a postdoc at RISE, I also had the privilege of working as a guest lecturer at <a href="https://ce.aut.ac.ir/index.php?sid=4&slc_lang=en">Amirkabir University of Tehran (AUT)</a> from 2013 until 2015. In 2017, I embarked on a role as a 
-machine learning scientist at <a href="https://www.cs.ox.ac.uk/">Oxford University</a>, where I remained until 2018, and subsequently, I returned to KTH as an Assistant Professor of Computer Science. I am currently the program director of 
-the <a href="https://intra.kth.se/en/eecs/forskarutbildning/doctoral-programmes/information-and-communication-technology-1.817611">Information and Communication Technology (ICT)</a> doctoral program at EECS, and I also serve as the specialization representative for SCS in ICT. 
-Additionally, I have recently taken on the role of leading the <a href="https://internal.wasp-sweden.org/ethical-legal-and-societal-aspects/">WASP Legal, Ethical, and Societal Aspects</a> cluster.<br>
+I'm an Associate Professor of Computer Science in the <a href="https://www.kth.se/cls">Department of Computing and Learning Systems (CLS)</a> at <a href="https://www.kth.se">KTH Royal Institute of Technology</a> in Sweden. I received my PhD in Computer Science from KTH in 2013, specializing in distributed systems. Following my doctoral studies, I worked as a postdoctoral researcher at the <a href="https://www.ri.se/en">Research Institutes of Sweden (RISE)</a>, where my research focused on data-intensive computing platforms. During my time at RISE, I also served as a guest lecturer at <a href="https://ce.aut.ac.ir/index.php?sid=4&slc_lang=en">Amirkabir University of Technology (AUT)</a> in Tehran from 2013 to 2015.<br> 
 <br>
-My current research centers around the intersection of equity and justice in AI, particularly in the context of large language models. To explore these ideas further, I initiated the <a href="https://co-liberative-computing.github.io/">co-liberative computing</a> research group.
-Our aim at the <a href="https://co-liberative-computing.github.io/">co-liberative computing</a> research group is to promote critical consciousness within the realms of computer science education and research. Acknowledging the inherent lack of 
-neutrality in computing and its entanglement with societal oppression, our group places a significant emphasis on developing a keen critical awareness to identify and analyze these pervasive 
-inequalities. Our mission revolves around integrating justice and equity as foundational values in computer science research and education. The overarching goal is to ensure that our endeavors 
-not only advance technological knowledge but also serve the greater good for all individuals, contributing to a more inclusive and just society.<br>
+In 2017, I joined the <a href="https://www.cs.ox.ac.uk/">University of Oxford</a> as a Machine Learning Scientist, where I worked until 2018 before returning to KTH as an Assistant Professor of Computer Science. I currently serve as the Program Director of the <a href="https://intra.kth.se/en/eecs/forskarutbildning/doctoral-programmes/information-and-communication-technology-1.817611">Information and Communication Technology (ICT)</a> doctoral program at the EECS School. I also lead the <a href="https://internal.wasp-sweden.org/ethical-legal-and-societal-aspects/">WASP Legal, Ethical, and Societal Aspects</a> cluster and am a member of the <a href="">WASP Diversity and Inclusion Group (DIG)</a>.<br>
 <br>
+My current research focuses on equity and justice in artificial intelligence, with a particular emphasis on large language models. To advance this work, I founded the <a href="https://co-liberative-computing.github.io/">Co-Liberative Computing</a> research group. Our goal is to foster critical consciousness in computer science research and education by recognizing that computing is not neutral but deeply intertwined with social, political, and economic structures. We investigate how digital technologies can reproduce or challenge existing inequalities and seek to integrate justice, equity, and social responsibility as core values in the design, development, and deployment of computing systems. 
+<!--<br>
 At the core of our approach is the practice of co-liberation, grounded in the unwavering belief in a collective 'us.' This perspective recognizes the inseparable connection between our individual 
 liberation and the imperative to collaborate for mutual freedom and the equitable redistribution of power. In the context of co-liberation, we advocate for a profound commitment to mutual benefit, 
 underscoring the collective responsibility shared by both dominant and minoritized groups. Through these principles, we aspire to contribute to a transformative and inclusive computing landscape, 
 addressing systemic injustices and fostering a society where technology serves as a force for positive change. This perspective challenges the conventional view of computing services as mere charity, 
-reframing them as powerful tools for building meaningful relationships and addressing demographic disparities.
+reframing them as powerful tools for building meaningful relationships and addressing demographic disparities.-->
 </p>
 <center><img src="../images/logo.png" class="center"></center>
 
